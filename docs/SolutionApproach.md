@@ -212,5 +212,7 @@ In recent years, managers in various industries have been burdened with workload
 
 <!-- https://www.forbes.com/sites/digital-assets/2026/04/04/daos-keep-centralizingdecades-of-governance-research-explain-why/ is current and relevant to the WorkplaceDAO idea, mostly reinforcing the idea that WorkplaceDAO remains a new and useful idea in addressing the issues that DAOs face. The article was shared with me by Tevo Saks on April 23, 2026 when discussing in Discord direct messages the Beyond Minimum Viable Governance (MVG) workshops that he hosted on behalf of Input Output. He invited me to participate in the Beyond MVG workshops because we are both members of the Odin Discord server that Nori hosts. I participated in a number of the Beyond MVG workshops with Tevo. -->
 
+<!-- https://forum.cardano.org/t/lessons-in-decentralized-governance-what-cardano-can-learn-from-dao-incentive-models/154264/9 -->
+
 <br />
 <p align="center"><a href="./Pitch.md"><—&nbsp;&nbsp;Pitch</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./UseCases.md">Scenarios and Use Cases&nbsp;&nbsp;—></a></p>
