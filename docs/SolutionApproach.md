@@ -145,7 +145,7 @@ Software application designs provide required features and functionality without
 
 ### Hypothesis<a name="hypothesis"></a>
 
-The current proposal hypothesizes that observable characteristics in social networks may provide an indication that establishing a DAO within a traditional organization or workplace assists in the recovery from and prevention of toxic environments or negative interpersonal interactions, as an aspect of a wider strategy.
+The current proposal hypothesizes that observable characteristics in social networks may provide an indication that establishing a DAO within a traditional organization or workplace assists, as an aspect of a wider strategy, in the recovery from and prevention of toxic environments or negative interpersonal interactions.
 
 ### Methodology and Lifecycle<a name="methodology"></a>
 
