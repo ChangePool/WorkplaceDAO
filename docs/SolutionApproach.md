@@ -10,6 +10,9 @@
 [Hypothesis](#hypothesis)  
 [Methodology and Lifecycle](#methodology)  
 [Feasibility](#feasibility)  
+[Expected Contributions](#contributions)  
+[Timeline](#timeline)  
+[Budget Justification](#budget)  
 [Conclusion](#conclusion)  
 [References](#references)  
 
@@ -182,6 +185,32 @@ Unhealthy and unsafe workplace practices may:
 <!-- Discuss HR and employment standards that may apply to scope of DAO responsibilities -->
 
 <!-- xDiscuss identified problems and problem statements -->
+
+### Expected Contributions<a name="contributions"></a>
+
+Exploring the research question and hypothesis requires the following contributions:
+
+- One or more suitable organizations or workplace environments participating in the research
+- Technical expertise in training large language models
+- Ethical oversight and approval of the detailed research study design
+- Academic supervision of the study
+- Access to an academic library, including the field of social sciences
+
+### Timeline<a name="timeline"></a>
+
+The timeline for conducting the study depends on:
+
+- Securing necessary academic oversight and supervision
+- Planning
+- Arranging one or more suitable organizations or workplaces interested in participating in the study
+
+Opportunities for PhD studies in organizational psychology with recognized institutions capable of providing the contributions necessary to complete the proposed study successfully are currently being explored.
+
+Receiving funding would strengthen applications.
+
+### Budget Justification<a name="budget"></a>
+
+A budget of $50K USD would go towards tuition in a recognized PhD program suitable for conducting the proposed research involving human subjects, as a precursor to working towards applying the solution approach in additional organizations and workplaces, if the research is successful.
 
 ### Conclusion<a name="conclusion"></a>
 
