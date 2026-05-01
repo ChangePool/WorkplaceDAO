@@ -14,6 +14,24 @@ The following documents aim to provide context for further planning and developm
 
 ### Many Thanks<a name="thanks"></a>
 
+**Nick Almond**  
+*Founder*  
+Factory DAO
+<!-- Nick invited me to chat further about the idea via direct messages. His Telegram contact is @DrNickA https://t.me/factdao He said, "Be persistent. My Telegram is a nightmare." -->
+
+**Nancy Ettlinger**
+*Professor Emerita*
+Department of Geography
+The Ohio State University
+
+**Joe Hernandez**  
+*Delegate*  
+Arbitrum DAO
+
+**Max Lomu**  
+*Ecosystem Lead*  
+Everclear
+
 **Daniel Ospina**  
 *Organisation Design Lead*  
 RnDAO
@@ -21,19 +39,6 @@ RnDAO
 **Kevin Owocki**  
 *Co-Founder*  
 Gitcoin
-
-**Max Lomu**  
-*Ecosystem Lead*  
-Everclear
-
-**Joe Hernandez**  
-*Delegate*  
-Arbitrum DAO
-
-**Nick Almond**  
-*Founder*  
-Factory DAO
-<!-- Nick invited me to chat further about the idea via direct messages. His Telegram contact is @DrNickA https://t.me/factdao He said, "Be persistent. My Telegram is a nightmare." -->
 
 **Monica Tsang**  
 *Researcher*  
