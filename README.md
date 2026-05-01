@@ -19,9 +19,9 @@ The following documents aim to provide context for further planning and developm
 Factory DAO
 <!-- Nick invited me to chat further about the idea via direct messages. His Telegram contact is @DrNickA https://t.me/factdao He said, "Be persistent. My Telegram is a nightmare." -->
 
-**Nancy Ettlinger**
-*Professor Emerita*
-Department of Geography
+**Nancy Ettlinger**  
+*Professor Emerita*  
+Department of Geography  
 The Ohio State University
 
 **Joe Hernandez**  
