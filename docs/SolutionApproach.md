@@ -5,7 +5,9 @@
 [Executive Summary](#summary)  
 [Inputs and Outputs](#io)  
 [Assumptions and Constraints](#assumptions)  
+[Research Question](#question)  
 [Solution Components](#components)  
+[Hypothesis](#hypothesis)  
 [Methodology and Lifecycle](#methodology)  
 [Feasibility](#feasibility)  
 [Conclusion](#conclusion)  
@@ -72,6 +74,10 @@ Successful DAOs build cooperation and collaboration.<sup><a href="#Veritasium">7
 
 While perhaps seeming inefficient, the process of a DAO may be important for developing an effective organization or workplace.
 
+### Research Question<a name="question"></a>
+
+How may the establishment of a DAO within a traditional organization or workplace help improve organizational function and effectiveness?
+
 ### Solution Components<a name="components"></a>
 
 The current proposal discusses components of the solution in terms of:
@@ -137,6 +143,10 @@ Software application designs provide required features and functionality without
 
 <!-- xTO-DO: Discuss subnet and smart contract requirements of the solution as applicable to Arbitrum with Jordan Imran (Aragon) -->
 
+### Hypothesis<a name="hypothesis"></a>
+
+The current proposal hypothesizes that observable characteristics in social networks may provide an indication that establishing a DAO within a traditional organization or workplace assists in the recovery from and prevention of toxic environments or negative interpersonal interactions, as an aspect of a wider strategy.
+
 ### Methodology and Lifecycle<a name="methodology"></a>
 
 <!-- How--by what means-- will the solution be delivered? -->
@@ -153,6 +163,8 @@ The solution scope and rules incentivizing the day-to-day operation of a DAO may
 
 <!-- xTO-DO: Discuss methodologies with Andrea Gallagher -->
 
+Large language models (LLMs) may automatically extract characteristics of social networks from vast amounts of qualitative unstructured and freely-formatted data that may otherwise be impossible to structure, such as e-mails, meeting minutes, interview transcripts, and open-ended narrative surveys.<sup><a href="#NetMinerBlog">14</a></sup>
+
 ### Feasibility<a name="feasibility"></a>
 
 <!-- How to assess whether an organization or workplace is capable of implementing and effectively using the solution? -->
@@ -163,7 +175,7 @@ Unhealthy and unsafe workplace practices may:
 - Interfere with the capabilities of an organization to provide products and services to external stakeholders, and
 - Create liabilities for workers' compensation insurers
 
-**The current solution approach suggests that organizations and workplaces recovering from and preventing toxic environments or negative interpersonal interactions may gain most from establishing a DAO, as an aspect of a wider strategy for continuous improvement.**<sup><a href="#SterzikThesis">14</a></sup>
+**The current solution approach suggests that organizations and workplaces recovering from and preventing toxic environments or negative interpersonal interactions may gain most from establishing a DAO, as an aspect of a wider strategy for continuous improvement.**<sup><a href="#SterzikThesis">15</a></sup>
 
 <!-- Perhaps as a starting point for determining solution scope, consider pain points within the organization, including decision making processes that are painful or ineffectual within the organization. -->
 
@@ -175,7 +187,7 @@ Unhealthy and unsafe workplace practices may:
 
 Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">14</a></sup>
 
-In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">10</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams, helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">15</a></sup>
+In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">10</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams, helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">16</a></sup>
 
 ### References<a name="references"></a>
 
@@ -206,9 +218,11 @@ In recent years, managers in various industries have been burdened with workload
 
 <a name="CHT"></a><sup>13</sup> [Key Issues Overview](https://www.humanetech.com/key-issues)
 
-<a name="SterzikThesis"></a><sup>14</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
+<a name="NetMinerBlog"></a><sup>14</sup> [Can LLMs Perform Social Network Analysis?](https://netminer.medium.com/can-llms-perform-social-network-analysis-9775a769c337)
 
-<a name="JuliaMartins"></a><sup>15</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
+<a name="SterzikThesis"></a><sup>15</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
+
+<a name="JuliaMartins"></a><sup>16</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
 
 <!-- https://www.forbes.com/sites/digital-assets/2026/04/04/daos-keep-centralizingdecades-of-governance-research-explain-why/ is current and relevant to the WorkplaceDAO idea, mostly reinforcing the idea that WorkplaceDAO remains a new and useful idea in addressing the issues that DAOs face. The article was shared with me by Tevo Saks on April 23, 2026 when discussing in Discord direct messages the Beyond Minimum Viable Governance (MVG) workshops that he hosted on behalf of Input Output. He invited me to participate in the Beyond MVG workshops because we are both members of the Odin Discord server that Nori hosts. I participated in a number of the Beyond MVG workshops with Tevo. See also the related Forbes article https://www.forbes.com/sites/nimrodlehavi/2024/03/18/doomed-to-fail-daos-steps-to-overcome-pitfalls-of-decentralization/ -->
 
