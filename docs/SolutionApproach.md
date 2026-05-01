@@ -13,7 +13,6 @@
 [Expected Contributions](#contributions)  
 [Timeline](#timeline)  
 [Budget Justification](#budget)  
-[Conclusion](#conclusion)  
 [References](#references)  
 
 <!-- What's missing? -->
@@ -210,13 +209,11 @@ Receiving funding would strengthen applications.
 
 ### Budget Justification<a name="budget"></a>
 
-A budget of $50K USD would go towards tuition in a recognized PhD program suitable for conducting the proposed research involving human subjects, as a precursor to working towards applying the solution approach in additional organizations and workplaces if the research is successful.
-
-### Conclusion<a name="conclusion"></a>
-
 Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">15</a></sup>
 
 In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">10</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams, helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">16</a></sup>
+
+A budget of $50K USD would go towards tuition in a recognized PhD program suitable for conducting the proposed research involving human subjects, as a precursor to working towards applying the solution approach in additional organizations and workplaces if the research is successful.
 
 ### References<a name="references"></a>
 
