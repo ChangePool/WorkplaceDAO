@@ -213,7 +213,7 @@ Receiving funding would strengthen applications.
 
 ### Budget Justification<a name="budget"></a>
 
-A budget of $50K USD would go towards tuition in a recognized PhD program suitable for conducting the proposed research involving human subjects, as a precursor to working towards applying the solution approach with additional organizations and workplaces if research indicates that the solution approach is effective.
+A budget of $50K USD would go towards tuition in a recognized PhD program suitable for conducting the proposed research involving human subjects, as a precursor to working towards applying the solution approach within additional organizations and workplaces if research indicates that the solution approach is effective.
 
 ### Conclusion<a name="conclusion"></a>
 
