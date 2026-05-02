@@ -202,8 +202,10 @@ Exploring the research question and hypothesis requires the following contributi
 The timeline for conducting the study depends on:
 
 - Securing necessary academic oversight and supervision
-- Planning
+- Designing the study in detail
 - Arranging one or more suitable organizations or workplaces interested in participating in the study
+- Determining the solution scope for a DAO within an organization or workplace participating in the study
+- Developing blockchain-based software applications needed to support the operation of a DAO implemented within an organization or workplace participating in the study
 
 Opportunities for PhD studies in organizational psychology with recognized institutions capable of providing the contributions necessary to complete the proposed study successfully are currently being explored.
 
