@@ -191,7 +191,7 @@ Unhealthy and unsafe workplace practices may:
 Exploring the research question and hypothesis requires the following contributions:
 
 - One or more suitable organizations or workplace environments participating in the research
-- Blockchain-based software application(s) supporting operations of a DAO within an organization or workplace
+- Blockchain-based software application(s) supporting the solution scope determined for a DAO operating within a participating organization or workplace
 - Technical expertise in training large language models
 - Ethical oversight and approval of the detailed research study design
 - Academic supervision of the study
