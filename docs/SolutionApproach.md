@@ -260,5 +260,7 @@ In recent years, managers in various industries have been burdened with workload
 
 <!-- https://forum.cardano.org/t/lessons-in-decentralized-governance-what-cardano-can-learn-from-dao-incentive-models/154264/9 -->
 
+<!-- https://www.apa.org/pubs/books/supplemental/Designing-Proposing-Research-Project/research_proposal.pdf -->
+
 <br />
 <p align="center"><a href="./Pitch.md"><—&nbsp;&nbsp;Pitch</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./UseCases.md">Scenarios and Use Cases&nbsp;&nbsp;—></a></p>
