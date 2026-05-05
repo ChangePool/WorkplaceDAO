@@ -262,7 +262,7 @@ In recent years, managers in various industries have been burdened with workload
 
 <!-- https://www.apa.org/pubs/books/supplemental/Designing-Proposing-Research-Project/research_proposal.pdf -->
 
-<!-- Reply to Nancy Ettlinger's e-mail sent on May 5, 2026 -->
+<!-- Reply to Nancy Ettlinger's e-mail sent on May 5, 2026 I met Nancy through Sensorica. For more details, see https://www.sciencedirect.com/science/article/pii/S2666378324000023 and https://sensoricablog.blogspot.com/2026/04/cautious-hope-prospects-and-perils-of.html -->
 
 <br />
 <p align="center"><a href="./Pitch.md"><—&nbsp;&nbsp;Pitch</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./UseCases.md">Scenarios and Use Cases&nbsp;&nbsp;—></a></p>
