@@ -158,9 +158,9 @@ The current proposal hypothesizes that observable characteristics in social netw
 
 The current proposal considers the implementation of an incorruptible DAO within an existing organization or workplace as a long-term decision aiming to establish the DAO as a permanent collaborative and cooperative—rather than a short-term, finite or temporary—internal decision-making structure. If an organization or workplace is unionized, then the union must be involved in designing and establishing the DAO.
 
-Successful implementation involves training and education for all stakeholders in a DAO. For example, education in preparation for establishing a DAO may include offering an introduction and practical experience related to fundamental game theory, such as the [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
+In the short term, the environment often shapes the behavior of individuals who become successful. Over the longer term, however, behavior shapes the environment.<sup><a href="#YouTube">12</a></sup> Therefore, successful implementation involves training and education for all stakeholders in a DAO. For example, education in preparation for establishing a DAO may include offering an introduction and practical experience related to fundamental game theory, such as the [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
 
-Game theory supposes that games may be finite or infinite. In a finite game, the goal is to win when the game ends. In an infinite game, the goal is to continue playing.<sup><a href="#JamesCarse">12</a></sup> In other words, the goal of an infinite game is sustainability. Participants in a DAO need to know that infinite games may be played as finite games, in which case the game ends with winners and losers, just like any finite game. Decentralization and effective organizational function are not synonymous. In a successful DAO within an organization or workplace, employees recognize the importance of responding to negative effects for the sustainability of the business.<sup><a href="#CHT">13</a></sup> All participants in the DAO need the intention—and need to understand the critical importance of the intention for the sustainability of the DAO as well as the organization—to continue actively making efforts to work towards **balance**. Activities exploring how to contribute effectively as a member of a DAO may include playing games demonstrating that cooperation is more rewarding than self interest, particularly over time.
+Game theory supposes that games may be finite or infinite. In a finite game, the goal is to win when the game ends. In an infinite game, the goal is to continue playing.<sup><a href="#JamesCarse">13</a></sup> In other words, the goal of an infinite game is sustainability. Participants in a DAO need to know that infinite games may be played as finite games, in which case the game ends with winners and losers, just like any finite game. Decentralization and effective organizational function are not synonymous. In a successful DAO within an organization or workplace, employees recognize the importance of responding to negative effects for the sustainability of the business.<sup><a href="#CHT">14</a></sup> All participants in the DAO need the intention—and need to understand the critical importance of the intention for the sustainability of the DAO as well as the organization—to continue actively making efforts to work towards **balance**. Activities exploring how to contribute effectively as a member of a DAO may include playing games demonstrating that cooperation is more rewarding than self interest, particularly over time.
 
 <!-- Use Greenpilled as a resource in planning the curriculum of the education deliverable. -->
 
@@ -168,7 +168,7 @@ The solution scope and rules incentivizing the day-to-day operation of a DAO may
 
 <!-- xTO-DO: Discuss methodologies with Andrea Gallagher -->
 
-Large language models (LLMs) may automatically extract characteristics of social networks from vast amounts of qualitative unstructured and freely-formatted data that may otherwise be impossible to structure, such as e-mails, meeting minutes, interview transcripts, and open-ended narrative surveys.<sup><a href="#NetMinerBlog">14</a></sup>
+Large language models (LLMs) may automatically extract characteristics of social networks from vast amounts of qualitative unstructured and freely-formatted data that may otherwise be impossible to structure, such as e-mails, meeting minutes, interview transcripts, and open-ended narrative surveys.<sup><a href="#NetMinerBlog">15</a></sup>
 
 ### Feasibility<a name="feasibility"></a>
 
@@ -180,7 +180,7 @@ Unhealthy and unsafe workplace practices may:
 - Interfere with the capabilities of an organization to provide products and services to external stakeholders, and
 - Create liabilities for workers' compensation insurers
 
-**The current solution approach suggests that organizations and workplaces recovering from and preventing toxic environments or negative interpersonal interactions may gain most from establishing a DAO, as an aspect of a wider strategy for continuous improvement.**<sup><a href="#SterzikThesis">15</a></sup>
+**The current solution approach suggests that organizations and workplaces recovering from and preventing toxic environments or negative interpersonal interactions may gain most from establishing a DAO, as an aspect of a wider strategy for continuous improvement.**<sup><a href="#SterzikThesis">16</a></sup>
 
 <!-- Perhaps as a starting point for determining solution scope, consider pain points within the organization, including decision making processes that are painful or ineffectual within the organization. -->
 
@@ -219,9 +219,9 @@ A budget of $50K USD would go towards tuition in a recognized PhD program suitab
 
 ### Conclusion<a name="conclusion"></a>
 
-Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">15</a></sup>
+Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">16</a></sup>
 
-In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs may introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">10</a></sup> Managers may increasingly focus on providing the context team members need to prioritize and execute their high-impact work, building trust, engagement and ownership on teams, helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">16</a></sup>
+In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs may introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">10</a></sup> Managers may increasingly focus on providing the context team members need to prioritize and execute their high-impact work, building trust, engagement and ownership on teams, helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">17</a></sup>
 
 ### References<a name="references"></a>
 
@@ -248,15 +248,17 @@ In recent years, managers in various industries have been burdened with workload
 <a name="UltimaIV"></a><sup>11</sup> [Ultima IV: Quest of the Avatar](https://en.wikipedia.org/wiki/Ultima_IV:_Quest_of_the_Avatar)
 <!-- In the Netflix show High Score (https://www.netflix.com/ca/title/81019087) S1:E3 the creator of Ultima discussed how he saw people playing Ultima I to III using betrayal. He identified that players felt no engagement or connectin with the protagonist in the games. He believed that allowing players to create avatars would help players play in a cooperative spirit. So, he created Ultima IV specifically so that you cannot win the game without heroism or altruism. He also introduced the concept of a avatar that the player may customize. Leverage the same invitation to members to relate to their presence and visibility within the DAO. -->
 
-<a name="JamesCarse"></a><sup>12</sup> [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
+<a name="YouTube"></a><sup>12</sup> [This Game Theory Problem Will Change the Way You See the World](https://www.youtube.com/watch?v=mScpHTIi-kM)
 
-<a name="CHT"></a><sup>13</sup> [The CHT Perspective](https://www.humanetech.com/the-cht-perspective)
+<a name="JamesCarse"></a><sup>13</sup> [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
 
-<a name="NetMinerBlog"></a><sup>14</sup> [Can LLMs Perform Social Network Analysis?](https://netminer.medium.com/can-llms-perform-social-network-analysis-9775a769c337)
+<a name="CHT"></a><sup>14</sup> [The CHT Perspective](https://www.humanetech.com/the-cht-perspective)
 
-<a name="SterzikThesis"></a><sup>15</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
+<a name="NetMinerBlog"></a><sup>15</sup> [Can LLMs Perform Social Network Analysis?](https://netminer.medium.com/can-llms-perform-social-network-analysis-9775a769c337)
 
-<a name="JuliaMartins"></a><sup>16</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
+<a name="SterzikThesis"></a><sup>16</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
+
+<a name="JuliaMartins"></a><sup>17</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
 
 <!-- https://www.forbes.com/sites/digital-assets/2026/04/04/daos-keep-centralizingdecades-of-governance-research-explain-why/ is current and relevant to the WorkplaceDAO idea, mostly reinforcing the idea that WorkplaceDAO remains a new and useful idea in addressing the issues that DAOs face. The article was shared with me by Tevo Saks on April 23, 2026 when discussing in Discord direct messages the Beyond Minimum Viable Governance (MVG) workshops that he hosted on behalf of Input Output. He invited me to participate in the Beyond MVG workshops because we are both members of the Odin Discord server that Nori hosts. I participated in a number of the Beyond MVG workshops with Tevo. See also the related Forbes article https://www.forbes.com/sites/nimrodlehavi/2024/03/18/doomed-to-fail-daos-steps-to-overcome-pitfalls-of-decentralization/ -->
 
