@@ -22,7 +22,7 @@
 
 ### Executive Summary<a name="summary"></a>
 
-Beyond using a blockchain to accrue transactions reflecting numerical values, how may cryptoasset systems fundamentally help foster human behavior reflecting socially useful and meaningful human values?
+Beyond using a blockchain to accrue transactions reflecting numerical values, how may cryptoasset systems fundamentally help support human behavior reflecting socially useful and meaningful human values?
 
 Most commonly, traditional organizational structures are hierarchical. Similarly, members in a labor union elect a centralized leadership. Decentralized Autonomous Organizations (DAOs) offer a model for decision making distributing voting rights across all members, typically with no central authority—only the will of the collective.
 
