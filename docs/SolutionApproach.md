@@ -250,7 +250,7 @@ In recent years, managers in various industries have been burdened with workload
 
 <a name="JamesCarse"></a><sup>12</sup> [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
 
-<a name="CHT"></a><sup>13</sup> [Key Issues Overview](https://www.humanetech.com/key-issues)
+<a name="CHT"></a><sup>13</sup> [The CHT Perspective](https://www.humanetech.com/the-cht-perspective)
 
 <a name="NetMinerBlog"></a><sup>14</sup> [Can LLMs Perform Social Network Analysis?](https://netminer.medium.com/can-llms-perform-social-network-analysis-9775a769c337)
 
