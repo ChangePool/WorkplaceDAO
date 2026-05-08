@@ -22,6 +22,8 @@
 
 ### Executive Summary<a name="summary"></a>
 
+Beyond using a blockchain to accrue transactions reflecting numerical values, how may cryptoasset systems fundamentally help foster human behavior reflecting socially useful and meaningful human values?
+
 Most commonly, traditional organizational structures are hierarchical. Similarly, members in a labor union elect a centralized leadership. Decentralized Autonomous Organizations (DAOs) offer a model for decision making distributing voting rights across all members, typically with no central authority—only the will of the collective.
 
 Sustainability in business refers to a company's strategy and actions to reduce adverse environmental and social impacts resulting from business operations in a particular market. An organization’s sustainability practices are typically analyzed against environmental, social and governance (ESG) metrics.<sup><a href="#IBM">1</a></sup> DAOs have been heralded as the future of governance, unlocking a more egalitarian approach to decision making. Within an existing organization or workplace, DAO members may assume a share of duties and responsibilities usually associated with management levels. The relationship between DAOs and labor unions is complementary.
