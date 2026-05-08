@@ -258,7 +258,7 @@ In recent years, managers in various industries have been burdened with workload
 
 <a name="SterzikThesis"></a><sup>16</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
 
-<a name="JuliaMartins"></a><sup>17</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
+<a name="JuliaMartins"></a><sup>17</sup> [8 Tips to Lead Without Micromanaging](https://asana.com/resources/macromanagement)
 
 <!-- https://www.forbes.com/sites/digital-assets/2026/04/04/daos-keep-centralizingdecades-of-governance-research-explain-why/ is current and relevant to the WorkplaceDAO idea, mostly reinforcing the idea that WorkplaceDAO remains a new and useful idea in addressing the issues that DAOs face. The article was shared with me by Tevo Saks on April 23, 2026 when discussing in Discord direct messages the Beyond Minimum Viable Governance (MVG) workshops that he hosted on behalf of Input Output. He invited me to participate in the Beyond MVG workshops because we are both members of the Odin Discord server that Nori hosts. I participated in a number of the Beyond MVG workshops with Tevo. See also the related Forbes article https://www.forbes.com/sites/nimrodlehavi/2024/03/18/doomed-to-fail-daos-steps-to-overcome-pitfalls-of-decentralization/ -->
 
