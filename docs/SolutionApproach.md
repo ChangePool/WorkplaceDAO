@@ -26,8 +26,9 @@
   <code>"Think of people. People are the answer to the problems of bits."</code>
 </p>
 <p align="center">
-<code>—<a href="https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai">There Is No A.I.</a>, <i>The New Yorker</i>, Jaron Lanier (April 2023)</code>
+<code>—Jaron Lanier, <a href="https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai">There Is No A.I.</a> (April 2023)</code>
 </p>
+<!-- https://archive.is/d75Qu -->
 
 Beyond using a blockchain to accrue transactions involving numeric values, how may a cryptoasset system fundamentally help support and foster socially useful human behavior reflecting meaningful human values?
 
