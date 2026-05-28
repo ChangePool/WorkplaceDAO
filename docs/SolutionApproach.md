@@ -23,10 +23,10 @@
 ### Executive Summary<a name="summary"></a>
 
 <p align="center">
-  <code>"The more employees turn to AI instead of other people, the more likely that our relationships with others will weaken."</code>
+  <code>"Think of people. People are the answer to the problems of bits."</code>
 </p>
 <p align="center">
-<code>—<a href="https://hbr.org/2026/03/how-ai-damages-work-relationships-and-where-it-can-actually-help">How AI Damages Work Relationships—and Where It Can Actually Help</a>, Harvard Business Review (March 2026)</code>
+<code>—<a href="https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai">There Is No A.I.</a>, _The New Yorker_, Jaron Lanier (April 2023)</code>
 </p>
 
 Beyond using a blockchain to accrue transactions involving numeric values, how may a cryptoasset system fundamentally help support and foster socially useful human behavior reflecting meaningful human values?
