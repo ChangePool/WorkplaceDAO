@@ -29,7 +29,7 @@
 <code>—<a href="https://hbr.org/2026/03/how-ai-damages-work-relationships-and-where-it-can-actually-help">How AI Damages Work Relationships—and Where It Can Actually Help</a>, Harvard Business Review (March 2026)</code>
 </p>
 
-Beyond using a blockchain to accrue transactions involving numerical values, how may a cryptoasset system fundamentally help support and foster human behavior reflecting socially useful and meaningful human values?
+Beyond using a blockchain to accrue transactions involving numerical values, how may a cryptoasset system fundamentally help support and foster socially useful human behavior reflecting meaningful human values?
 
 Most commonly, traditional organizational structures are hierarchical. Similarly, members in a labor union elect a centralized leadership. Decentralized Autonomous Organizations (DAOs) offer a model for decision making distributing voting rights across all members, typically with no central authority—only the will of the collective.<sup><a href="#Clarity">1</a></sup>
 
