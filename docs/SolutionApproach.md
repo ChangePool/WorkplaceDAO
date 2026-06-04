@@ -251,24 +251,26 @@ In recent years, managers in various industries have been burdened with workload
 
 <a name="SterzikTrust"></a><sup>9</sup> [The Nature of Trust](https://keywaycounselling.com/Content/Resources/PDFs/nature_of_trust.pdf)
 
-<a name="KPIs"></a><sup>10</sup> [What Is a KPI?](https://www.qlik.com/us/kpi)
+<a name="KevinOleary"></a><sup>10</sup> [The Next Big Thing For Crypto](https://m.youtube.com/shorts/cpJ1aifpX5U)
 
-<a name="Chainwire"></a><sup>11</sup> [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
+<a name="KPIs"></a><sup>11</sup> [What Is a KPI?](https://www.qlik.com/us/kpi)
 
-<a name="UltimaIV"></a><sup>12</sup> [Ultima IV: Quest of the Avatar](https://en.wikipedia.org/wiki/Ultima_IV:_Quest_of_the_Avatar)
+<a name="Chainwire"></a><sup>12</sup> [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
+
+<a name="UltimaIV"></a><sup>13</sup> [Ultima IV: Quest of the Avatar](https://en.wikipedia.org/wiki/Ultima_IV:_Quest_of_the_Avatar)
 <!-- In the Netflix show High Score (https://www.netflix.com/ca/title/81019087) S1:E3 the creator of Ultima discussed how he saw people playing Ultima I to III using betrayal. He identified that players felt no engagement or connectin with the protagonist in the games. He believed that allowing players to create avatars would help players play in a cooperative spirit. So, he created Ultima IV specifically so that you cannot win the game without heroism or altruism. He also introduced the concept of a avatar that the player may customize. Leverage the same invitation to members to relate to their presence and visibility within the DAO. -->
 
-<a name="YouTube"></a><sup>13</sup> [This Game Theory Problem Will Change the Way You See the World](https://www.youtube.com/watch?v=mScpHTIi-kM)
+<a name="YouTube"></a><sup>14</sup> [This Game Theory Problem Will Change the Way You See the World](https://www.youtube.com/watch?v=mScpHTIi-kM)
 
-<a name="JamesCarse"></a><sup>14</sup> [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
+<a name="JamesCarse"></a><sup>15</sup> [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
 
-<a name="CHT"></a><sup>15</sup> [The CHT Perspective](https://www.humanetech.com/the-cht-perspective)
+<a name="CHT"></a><sup>16</sup> [The CHT Perspective](https://www.humanetech.com/the-cht-perspective)
 
-<a name="NetMinerBlog"></a><sup>16</sup> [Can LLMs Perform Social Network Analysis?](https://netminer.medium.com/can-llms-perform-social-network-analysis-9775a769c337)
+<a name="NetMinerBlog"></a><sup>17</sup> [Can LLMs Perform Social Network Analysis?](https://netminer.medium.com/can-llms-perform-social-network-analysis-9775a769c337)
 
-<a name="SterzikThesis"></a><sup>17</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
+<a name="SterzikThesis"></a><sup>18</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
 
-<a name="JuliaMartins"></a><sup>18</sup> [8 Tips to Lead Without Micromanaging](https://asana.com/resources/macromanagement)
+<a name="JuliaMartins"></a><sup>19</sup> [8 Tips to Lead Without Micromanaging](https://asana.com/resources/macromanagement)
 
 <!-- https://www.forbes.com/sites/digital-assets/2026/04/04/daos-keep-centralizingdecades-of-governance-research-explain-why/ is current and relevant to the WorkplaceDAO idea, mostly reinforcing the idea that WorkplaceDAO remains a new and useful idea in addressing the issues that DAOs face. The article was shared with me by Tevo Saks on April 23, 2026 when discussing in Discord direct messages the Beyond Minimum Viable Governance (MVG) workshops that he hosted on behalf of Input Output. He invited me to participate in the Beyond MVG workshops because we are both members of the Odin Discord server that Nori hosts. I participated in a number of the Beyond MVG workshops with Tevo. See also the related Forbes article https://www.forbes.com/sites/nimrodlehavi/2024/03/18/doomed-to-fail-daos-steps-to-overcome-pitfalls-of-decentralization/ -->
 
