@@ -52,7 +52,7 @@ The proposal aims to describe solution components—such as new processes and so
 
 ### Inputs and Outputs<a name="io"></a>
 
-Determining the solution approach relies on the following inputs:
+Determining the solution approach relies on the following inputs, which may be informed using a Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/):
 
 - Business need
 - Organizational process assets
