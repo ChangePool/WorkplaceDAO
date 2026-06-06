@@ -52,13 +52,13 @@ The proposal aims to describe solution components—such as new processes and so
 
 ### Inputs and Outputs<a name="io"></a>
 
-Determining the solution approach relies on the following inputs, which may be informed using a [Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/):
+Determining the solution approach relies on the following inputs:
 
 - Business need
 - Organizational process assets
 - Required capabilities
 
-Use the solution approach to define the solution scope.
+Use the solution approach to define the solution scope, which may be informed using a [Method of Conducting Workplace Electronic Communication Traffic Analysis](https://patents.google.com/patent/US11423362B2/).
 
 ### Assumptions and Constraints<a name="assumptions"></a>
 
