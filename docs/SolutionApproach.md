@@ -138,9 +138,9 @@ Customers may benefit from improved organizational responsiveness and engagement
 In general, the solution approach requires a blockchain implementation supporting the following features:
 
 - Smart contracts
+- Zero-knowledge proofs
 - Tokens
 - Non-fungible tokens (NFTs)
-- Secure and private storage of employee data
 
 <!-- What about privacy considerations, for DAO members transacting on chain? -->
 
