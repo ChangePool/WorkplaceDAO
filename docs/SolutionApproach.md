@@ -133,6 +133,13 @@ Customers may benefit from improved organizational responsiveness and engagement
 
 #### Software Applications<a name="software"></a>
 
+<p align="center">
+  <code>"What matters is removing the need for trusted third parties from commercial and social transactions."</code>
+</p>
+<p align="center">
+<code>—<a href="https://m.youtube.com/watch?v=SQNwaGx6Mn8">Charles Hoskinson</a> (June 2026)</code>
+</p>
+
 <!-- The current proposal recommends building solutions using [Arbitrum](https://arbitrum.io/). -->
 
 In general, the solution approach requires a blockchain implementation supporting the following features:
