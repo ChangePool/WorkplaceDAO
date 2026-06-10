@@ -246,7 +246,7 @@ In recent years, managers in various industries have been burdened with workload
 
 <a name="SashaIvanov"></a><sup>3</sup> [DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
 
-<a name="BABOK"></a><sup>4</sup> [Business Analysis Body of Knowledge (BABOK Guide), Version 2.0](https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/)
+<a name="BABOK"></a><sup>4</sup> [Business Analysis Body of Knowledge (BABOK Guide), Version 2.0](https://dn760001.eu.archive.org/0/items/BABOKv2.0/BABOKv2.0.pdf)
 
 <a name="MarkZuckerberg"></a><sup>5</sup> [Mark Zuckerberg Could Teach DAOs Like Compound a Governance Lesson](https://www.coindesk.com/tech/2024/11/20/metas-mark-zuckerberg-could-teach-daos-like-compound-a-governance-lesson/)
 
