@@ -137,7 +137,7 @@ Customers may benefit from improved organizational responsiveness and engagement
   <code>"What matters is removing the need for trusted third parties from commercial and social transactions."</code>
 </p>
 <p align="center">
-<code>—<a href="https://m.youtube.com/watch?v=SQNwaGx6Mn8">Charles Hoskinson</a> (June 2026)</code>
+<code>—Charles Hoskinson, <a href="https://m.youtube.com/watch?v=SQNwaGx6Mn8">Why Cardano is the Only Ecosystem That Can Run the World</a> (June 2026)</code>
 </p>
 
 <!-- The current proposal recommends building solutions using [Arbitrum](https://arbitrum.io/). -->
