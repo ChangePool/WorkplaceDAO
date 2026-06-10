@@ -1,3 +1,5 @@
 ## Contributing to the Project
 
-To contribute to the project, please contact Oliver Sterzik <support@paradoxicalsphere.com>
+Please help make the idea better, or make a better idea.
+
+To contribute to the project, contact support@paradoxicalsphere.com
