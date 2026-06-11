@@ -183,7 +183,7 @@ The solution scope and rules incentivizing the day-to-day operation of a DAO may
 
 <!-- xTO-DO: Discuss methodologies with Andrea Gallagher -->
 
-Large language models (LLMs) may automatically extract characteristics of social networks from vast amounts of qualitative unstructured and freely-formatted data that may otherwise be impossible to structure, such as e-mails, meeting minutes, interview transcripts, and open-ended narrative surveys.<sup><a href="#NetMinerBlog">18</a></sup>
+Large language models (LLMs) may automatically extract characteristics of social networks from vast amounts of qualitative unstructured and freely-formatted data that may otherwise be impossible to structure, such as e-mails, meeting minutes, interview transcripts and open-ended narrative surveys.<sup><a href="#NetMinerBlog">18</a></sup>
 
 ### Feasibility<a name="feasibility"></a>
 
