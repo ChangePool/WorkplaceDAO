@@ -93,6 +93,13 @@ How may the establishment of a DAO within a traditional organization or workplac
 
 ### Solution Components<a name="components"></a>
 
+<p align="center">
+  <code>"What matters is... removing the need for trusted third parties from commercial and social transactions."</code>
+</p>
+<p align="center">
+<code>—Charles Hoskinson, <a href="https://m.youtube.com/watch?v=SQNwaGx6Mn8">Why Cardano is the Only Ecosystem That Can Run the World</a> (June 2026)</code>
+</p>
+
 The current proposal discusses components of the solution in terms of:
 
 - [New Processes](#processes)
@@ -132,13 +139,6 @@ Customers may benefit from improved organizational responsiveness and engagement
 <!-- To design a DAO that gives people what they need, work backwards from the customer -->
 
 #### Software Applications<a name="software"></a>
-
-<p align="center">
-  <code>"What matters is... removing the need for trusted third parties from commercial and social transactions."</code>
-</p>
-<p align="center">
-<code>—Charles Hoskinson, <a href="https://m.youtube.com/watch?v=SQNwaGx6Mn8">Why Cardano is the Only Ecosystem That Can Run the World</a> (June 2026)</code>
-</p>
 
 <!-- The current proposal recommends building solutions using [Arbitrum](https://arbitrum.io/). -->
 
