@@ -34,11 +34,11 @@ Beyond using a blockchain to accrue transactions involving numeric values, how m
 
 Most commonly, traditional organizational structures are hierarchical. Similarly, members in a labor union elect a centralized leadership. Decentralized Autonomous Organizations (DAOs) offer a model for decision making distributing voting rights across all members, typically with no central authority—only the will of the collective.<sup><a href="#Clarity">1</a></sup>
 
-Sustainability in business refers to a company's strategy and actions to reduce adverse environmental and social impacts resulting from business operations in a particular market. An organization’s sustainability practices are typically analyzed against environmental, social and governance (ESG) metrics.<sup><a href="#IBM">2</a></sup> DAOs have been heralded as the future of governance, unlocking a more egalitarian approach to decision making. Within an existing organization or workplace, DAO members may assume a share of duties and responsibilities usually associated with management levels. The relationship between DAOs and labor unions is complementary.
+Sustainability in business refers to a company's strategy and actions to reduce adverse environmental and social impacts resulting from business operations in a particular market. An organization’s sustainability practices are typically analyzed against environmental, social and governance (ESG) metrics.<sup><a href="#IBM">2</a></sup> DAOs have been heralded as the future of governance, unlocking a more egalitarian approach to decision making.  Within social contexts, nurturing more symmetrical hierarchies maintaining an exact balance of power and status fosters reciprocal generosity.<sup><a href="#MIT">3</a></sup> In an existing organization or workplace, DAO members may assume a share of duties and responsibilities usually associated with management levels. The relationship between DAOs and labor unions is complementary.
 
-In a DAO, decision-making power typically is associated with one or more tokens created on a blockchain. Tokens represent a form of resource allocation. A blockchain is a digital ledger used to track token resource allocation immutably. Historically, DAOs rely on token-weighted governance, which is plutocratic. In other words, users with the most tokens have the biggest share of voting power. Unfortunately, token-weighted governance models can inadvertently end up handing over control to a few participants holding the majority of tokens, stripping influence away from the many.<sup><a href="#SashaIvanov">3</a></sup>
+In a DAO, decision-making power typically is associated with one or more tokens created on a blockchain. Tokens represent a form of resource allocation. A blockchain is a digital ledger used to track token resource allocation immutably. Historically, DAOs rely on token-weighted governance, which is plutocratic. In other words, users with the most tokens have the biggest share of voting power. Unfortunately, token-weighted governance models can inadvertently end up handing over control to a few participants holding the majority of tokens, stripping influence away from the many.<sup><a href="#SashaIvanov">4</a></sup>
 
-The current proposal offers a solution approach for implementing a DAO within an existing organization or workplace.<sup><a href="#BABOK">4</a></sup> DAOs established within existing organizations or workplaces may be more resilient, effective and successful than DAOs standing alone. Leveraging strengths already established within more traditional organizational structures ensures that, over time, a DAO remains as incorruptible as the organization itself.<sup><a href="#MarkZuckerberg">5</a></sup>
+The current proposal offers a solution approach for implementing a DAO within an existing organization or workplace.<sup><a href="#BABOK">5</a></sup> DAOs established within existing organizations or workplaces may be more resilient, effective and successful than DAOs standing alone. Leveraging strengths already established within more traditional organizational structures ensures that, over time, a DAO remains as incorruptible as the organization itself.<sup><a href="#MarkZuckerberg">6</a></sup>
 
 Also, establishing a DAO may help increase employee engagement and improve decision-making capabilities to prepare and position an existing organization or workplace for a future where Web 3.0 solutions facilitate cooperation and collaboration at scales previously not possible.
 
@@ -68,14 +68,14 @@ The current proposal is constrained to examining how to implement an incorruptib
 
 <!-- TO-DO: Discuss with Gema Diaz the potential responsibilities as well as the limits of responsibilities for such a DAO established within an organization or workplace, considering employment law. -->
 
-The integrity of voting in a DAO requires:<sup><a href="#KevinOwocki">6</a></sup>
+The integrity of voting in a DAO requires:<sup><a href="#KevinOwocki">7</a></sup>
 
 - Decentralization of voting power
-- Accurate identification of DAO members<sup><a href="#WikipediaSybil">7</a></sup>
+- Accurate identification of DAO members<sup><a href="#WikipediaSybil">8</a></sup>
 - DAO members engaging and participating in the DAO actively
 - DAO members NOT colluding to vote to each other's advantage
 
-A dual role, or dual relationship, is one in which there are two (or more) distinct kinds of relationship with the same person or entity. Employee members of a DAO maintain a dual role within the organization or workplace. While dual relationships always introduce greater complexity, they are not inherently exploitative. Indeed, the increased human engagement through a dual relationship is far more likely to be affirming, reassuring and enriching than exploitative. The following practical guidelines are designed to help navigate dual relationships:<sup><a href="#SterzikBlog">8</a></sup>
+A dual role, or dual relationship, is one in which there are two (or more) distinct kinds of relationship with the same person or entity. Employee members of a DAO maintain a dual role within the organization or workplace. While dual relationships always introduce greater complexity, they are not inherently exploitative. Indeed, the increased human engagement through a dual relationship is far more likely to be affirming, reassuring and enriching than exploitative. The following practical guidelines are designed to help navigate dual relationships:<sup><a href="#SterzikBlog">9</a></sup>
 
 - Acknowledge the nature of dual roles in a relationship.
 - Be explicit and clear about the role that applies at a given point in time in a relationship.
@@ -83,7 +83,7 @@ A dual role, or dual relationship, is one in which there are two (or more) disti
 - Be willing to engage in an ongoing discussion regarding the integrity of a dual relationship.
 - Be willing to make changes in behaviour to preserve the integrity of relationships, including ending the dual nature if integrity of the relationship cannot be preserved otherwise.
 
-Successful DAOs build cooperation and collaboration.<sup><a href="#Veritasium">9</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">10</a></sup>
+Successful DAOs build cooperation and collaboration.<sup><a href="#Veritasium">10</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">11</a></sup>
 
 While perhaps seeming inefficient, the process of a DAO may be important for developing an effective organization or workplace.
 
@@ -111,13 +111,13 @@ When designing a DAO, the solution approach informs the solution scope.
 
 The DAO architecture introduces a new decision-making apparatus that provides opportunities to select and move people into positions of success, power and influence on the basis of demonstrated abilities and merit as a form of motivation.
 
-In organizations and workplaces, managing roles and responsibilities while empowering employees to complete their day-to-day activities and duties successfully is a fundamental existing requirement. **In the current proposal, management—along with union leadership if applicable—regulates weighted voting and tokenomics, establishing constraints to maintain decentralization of voting power within the DAO. Existing or new workplace contracts, agreements, guidelines, codes of conduct or practices between the employer and employees preserve the integrity of DAO voting by accurately identifying DAO members and setting standards for professional ethical relationships.**<sup><a href="#KevinOleary">11</a></sup> Management, and union leadership if applicable, are empowered to revise the operating rules of the DAO in circumstances when the DAO begins to fail, noting that cultivating cooperation, self-optimization and self-correction are primary objectives of a DAO.
+In organizations and workplaces, managing roles and responsibilities while empowering employees to complete their day-to-day activities and duties successfully is a fundamental existing requirement. **In the current proposal, management—along with union leadership if applicable—regulates weighted voting and tokenomics, establishing constraints to maintain decentralization of voting power within the DAO. Existing or new workplace contracts, agreements, guidelines, codes of conduct or practices between the employer and employees preserve the integrity of DAO voting by accurately identifying DAO members and setting standards for professional ethical relationships.**<sup><a href="#KevinOleary">12</a></sup> Management, and union leadership if applicable, are empowered to revise the operating rules of the DAO in circumstances when the DAO begins to fail, noting that cultivating cooperation, self-optimization and self-correction are primary objectives of a DAO.
 
 The membership of the DAO is comprised of employees. Depending on business needs, existing organizational processes and required capabilities, a DAO established in an organization or workplace collectively takes responsibility for some decision making that would otherwise be made by individual employees, smaller teams, management or union leadership.
 
-**Decision-making power in the form of DAO tokens is allocated based on assessments against key performance indicators (KPIs)**. KPIs are "quantifiable measures of performance over time for a specific objective [providing] targets for [individuals and] teams [within organizations] to aim for; milestones to gauge progress; and, insights that help people across the organization make better decisions... [KPIs] help every area of the business move forward at the strategic level."<sup><a href="#KPIs">12</a></sup> Assessing employees against certain KPIs when allocating decision-making power in a DAO may help:
+**Decision-making power in the form of DAO tokens is allocated based on assessments against key performance indicators (KPIs)**. KPIs are "quantifiable measures of performance over time for a specific objective [providing] targets for [individuals and] teams [within organizations] to aim for; milestones to gauge progress; and, insights that help people across the organization make better decisions... [KPIs] help every area of the business move forward at the strategic level."<sup><a href="#KPIs">13</a></sup> Assessing employees against certain KPIs when allocating decision-making power in a DAO may help:
 
-- Encourage all entities to make decisions that are in the broader interest of the organization or workplace, not just themselves.<sup><a href="#SashaIvanov">3</a></sup> 
+- Encourage all entities to make decisions that are in the broader interest of the organization or workplace, not just themselves.<sup><a href="#SashaIvanov">4</a></sup> 
 - Amplify quieter voices
 - Mitigate risks of losing social capital that may be associated with speaking up vocally and passionately
 - Shift social engagement towards increasing cooperation
@@ -151,7 +151,7 @@ In general, the solution approach requires a blockchain implementation supportin
 
 <!-- What about privacy considerations, for DAO members transacting on chain? -->
 
-Software application designs provide required features and functionality without users needing to understand the details of Web 3.0 technologies.<sup><a href="#Chainwire">13</a></sup> For example, DAO members create avatars.<sup><a href="#UltimaIV">14</a></sup>
+Software application designs provide required features and functionality without users needing to understand the details of Web 3.0 technologies.<sup><a href="#Chainwire">14</a></sup> For example, DAO members create avatars.<sup><a href="#UltimaIV">15</a></sup>
 
 <!-- The goal of the Toyota hackathon on Astar was "creating a support tool allowing anyone to create teams, issue governance tokens and vote without needing to understand the details of Web 3.0." The technology stack needed to implement the current proposal in an existing organization or workplace may have similar features requirements, although used in a more structured manner. -->
 
@@ -173,9 +173,9 @@ The current proposal hypothesizes that observable characteristics in social netw
 
 The current proposal considers the implementation of an incorruptible DAO within an existing organization or workplace as a long-term decision aiming to establish the DAO as a permanent collaborative and cooperative—rather than a short-term, finite or temporary—internal decision-making structure. If an organization or workplace is unionized, then the union must be involved in designing and establishing the DAO.
 
-In the short term, the environment tends to shape the behavior of individuals who become successful. Over the longer term, however, behavior shapes the environment.<sup><a href="#YouTube">15</a></sup> Therefore, successful implementation involves training and education for all stakeholders in a DAO. For example, education in preparation for establishing a DAO may include offering an introduction and practical experience related to fundamental game theory, such as the [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
+In the short term, the environment tends to shape the behavior of individuals who become successful. Over the longer term, however, behavior shapes the environment.<sup><a href="#YouTube">16</a></sup> Therefore, successful implementation involves training and education for all stakeholders in a DAO. For example, education in preparation for establishing a DAO may include offering an introduction and practical experience related to fundamental game theory, such as the [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
 
-Game theory supposes that games may be finite or infinite. In a finite game, the goal is competing to win when the game ends. In an infinite game, the goal is to continue playing.<sup><a href="#JamesCarse">16</a></sup> In other words, a finite game must end and the goal of an infinite game is sustainability. Participants in a DAO need to know that infinite games may be played as finite games, in which case the game ends, with winners and losers, just like any finite game. In an infinite game, if the game appears to be ending players change the rules to keep playing. Decentralization and effective organizational function are not synonymous. In a successful DAO within an organization or workplace, employees recognize the importance of responding to negative effects for the sustainability of the business.<sup><a href="#CHT">17</a></sup> All participants in the DAO need the intention—and need to understand the critical importance of the intention, for the sustainability of the DAO as well as the organization—to continue actively making efforts to work towards **balance**. Activities exploring how to contribute effectively as a member of a DAO may include playing games demonstrating that cooperation is more rewarding than self interest, particularly over time and repeated interactions.
+Game theory supposes that games may be finite or infinite. In a finite game, the goal is competing to win when the game ends. In an infinite game, the goal is to continue playing.<sup><a href="#JamesCarse">17</a></sup> In other words, a finite game must end and the goal of an infinite game is sustainability. Participants in a DAO need to know that infinite games may be played as finite games, in which case the game ends, with winners and losers, just like any finite game. In an infinite game, if the game appears to be ending players change the rules to keep playing. Decentralization and effective organizational function are not synonymous. In a successful DAO within an organization or workplace, employees recognize the importance of responding to negative effects for the sustainability of the business.<sup><a href="#CHT">18</a></sup> All participants in the DAO need the intention—and need to understand the critical importance of the intention, for the sustainability of the DAO as well as the organization—to continue actively making efforts to work towards **balance**. Activities exploring how to contribute effectively as a member of a DAO may include playing games demonstrating that cooperation is more rewarding than self interest, particularly over time and repeated interactions.
 
 <!-- Use Greenpilled as a resource in planning the curriculum of the education deliverable. -->
 
@@ -183,7 +183,7 @@ The solution scope and rules incentivizing the day-to-day operation of a DAO may
 
 <!-- xTO-DO: Discuss methodologies with Andrea Gallagher -->
 
-Large language models (LLMs) may automatically extract characteristics of social networks from vast amounts of qualitative unstructured and freely-formatted data that may otherwise be impossible to structure, such as e-mails, meeting minutes, interview transcripts and open-ended narrative surveys.<sup><a href="#NetMinerBlog">18</a></sup>
+Large language models (LLMs) may automatically extract characteristics of social networks from vast amounts of qualitative unstructured and freely-formatted data that may otherwise be impossible to structure, such as e-mails, meeting minutes, interview transcripts and open-ended narrative surveys.<sup><a href="#NetMinerBlog">19</a></sup>
 
 ### Feasibility<a name="feasibility"></a>
 
@@ -195,7 +195,7 @@ Unhealthy and unsafe workplace practices may:
 - Interfere with the capabilities of an organization to provide products and services to external stakeholders, and
 - Create liabilities for workers' compensation insurers
 
-**The current solution approach suggests that organizations and workplaces recovering from and preventing toxic environments or negative interpersonal interactions may gain most from establishing a DAO, as an aspect of a wider strategy for continuous improvement.**<sup><a href="#SterzikThesis">19</a></sup>
+**The current solution approach suggests that organizations and workplaces recovering from and preventing toxic environments or negative interpersonal interactions may gain most from establishing a DAO, as an aspect of a wider strategy for continuous improvement.**<sup><a href="#SterzikThesis">20</a></sup>
 
 <!-- Perhaps as a starting point for determining solution scope, consider pain points within the organization, including decision making processes that are painful or ineffectual within the organization. -->
 
@@ -236,7 +236,7 @@ A budget of $50K USD would go towards tuition in a recognized PhD program suitab
 
 Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">19</a></sup>
 
-In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs may introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">13</a></sup> Managers may increasingly focus on providing the context team members need to prioritize and execute their high-impact work, building trust, engagement and ownership on teams, helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">20</a></sup>
+In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs may introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">14</a></sup> Managers may increasingly focus on providing the context team members need to prioritize and execute their high-impact work, building trust, engagement and ownership on teams, helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">21</a></sup>
 
 ### References<a name="references"></a>
 
@@ -244,42 +244,44 @@ In recent years, managers in various industries have been burdened with workload
 
 <a name="IBM"></a><sup>2</sup> [What Is Sustainability in Business?](https://www.ibm.com/topics/business-sustainability)
 
-<a name="SashaIvanov"></a><sup>3</sup> [DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
+<a name="MIT"></a><sup>3</sup> [Expectations of Reciprocal Generosity Are Specific to Equal Relationships](https://direct.mit.edu/opmi/article/doi/10.1162/OPMI.a.357/137050/Expectations-of-Reciprocal-Generosity-Are-Specific)
 
-<a name="BABOK"></a><sup>4</sup> [Business Analysis Body of Knowledge (BABOK Guide), Version 2.0](https://dn760001.eu.archive.org/0/items/BABOKv2.0/BABOKv2.0.pdf)
+<a name="SashaIvanov"></a><sup>4</sup> [DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
 
-<a name="MarkZuckerberg"></a><sup>5</sup> [Mark Zuckerberg Could Teach DAOs Like Compound a Governance Lesson](https://www.coindesk.com/tech/2024/11/20/metas-mark-zuckerberg-could-teach-daos-like-compound-a-governance-lesson/)
+<a name="BABOK"></a><sup>5</sup> [Business Analysis Body of Knowledge (BABOK Guide), Version 2.0](https://dn760001.eu.archive.org/0/items/BABOKv2.0/BABOKv2.0.pdf)
 
-<a name="KevinOwocki"></a><sup>6</sup> [How Quadratic Funding Could Finance Your Dreams](https://www.youtube.com/watch?v=1GRt0j698T4)
+<a name="MarkZuckerberg"></a><sup>6</sup> [Mark Zuckerberg Could Teach DAOs Like Compound a Governance Lesson](https://www.coindesk.com/tech/2024/11/20/metas-mark-zuckerberg-could-teach-daos-like-compound-a-governance-lesson/)
 
-<a name="WikipediaSybil"></a><sup>7</sup> [Sybil Attack](https://en.wikipedia.org/wiki/Sybil_attack)
+<a name="KevinOwocki"></a><sup>7</sup> [How Quadratic Funding Could Finance Your Dreams](https://www.youtube.com/watch?v=1GRt0j698T4)
 
-<a name="SterzikBlog"></a><sup>8</sup> [Dual Roles and the Therapeutic Relationship](https://keywaycounselling.com/Content/Resources/Blog/2019/04/dualroles.htm)
+<a name="WikipediaSybil"></a><sup>8</sup> [Sybil Attack](https://en.wikipedia.org/wiki/Sybil_attack)
 
-<a name="Veritasium"></a><sup>9</sup> [What Game Theory Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM)
+<a name="SterzikBlog"></a><sup>9</sup> [Dual Roles and the Therapeutic Relationship](https://keywaycounselling.com/Content/Resources/Blog/2019/04/dualroles.htm)
 
-<a name="SterzikTrust"></a><sup>10</sup> [The Nature of Trust](https://keywaycounselling.com/Content/Resources/PDFs/nature_of_trust.pdf)
+<a name="Veritasium"></a><sup>10</sup> [What Game Theory Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM)
 
-<a name="KevinOleary"></a><sup>11</sup> [The Next Big Thing For Crypto](https://m.youtube.com/shorts/cpJ1aifpX5U)
+<a name="SterzikTrust"></a><sup>11</sup> [The Nature of Trust](https://keywaycounselling.com/Content/Resources/PDFs/nature_of_trust.pdf)
 
-<a name="KPIs"></a><sup>12</sup> [What Is a KPI?](https://www.qlik.com/us/kpi)
+<a name="KevinOleary"></a><sup>12</sup> [The Next Big Thing For Crypto](https://m.youtube.com/shorts/cpJ1aifpX5U)
 
-<a name="Chainwire"></a><sup>13</sup> [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
+<a name="KPIs"></a><sup>13</sup> [What Is a KPI?](https://www.qlik.com/us/kpi)
 
-<a name="UltimaIV"></a><sup>14</sup> [Ultima IV: Quest of the Avatar](https://en.wikipedia.org/wiki/Ultima_IV:_Quest_of_the_Avatar)
+<a name="Chainwire"></a><sup>14</sup> [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
+
+<a name="UltimaIV"></a><sup>15</sup> [Ultima IV: Quest of the Avatar](https://en.wikipedia.org/wiki/Ultima_IV:_Quest_of_the_Avatar)
 <!-- In the Netflix show High Score (https://www.netflix.com/ca/title/81019087) S1:E3 the creator of Ultima discussed how he saw people playing Ultima I to III using betrayal. He identified that players felt no engagement or connectin with the protagonist in the games. He believed that allowing players to create avatars would help players play in a cooperative spirit. So, he created Ultima IV specifically so that you cannot win the game without heroism or altruism. He also introduced the concept of a avatar that the player may customize. Leverage the same invitation to members to relate to their presence and visibility within the DAO. -->
 
-<a name="YouTube"></a><sup>15</sup> [This Game Theory Problem Will Change the Way You See the World](https://www.youtube.com/watch?v=mScpHTIi-kM)
+<a name="YouTube"></a><sup>16</sup> [This Game Theory Problem Will Change the Way You See the World](https://www.youtube.com/watch?v=mScpHTIi-kM)
 
-<a name="JamesCarse"></a><sup>16</sup> [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
+<a name="JamesCarse"></a><sup>17/sup> [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
 
-<a name="CHT"></a><sup>17</sup> [The CHT Perspective](https://www.humanetech.com/the-cht-perspective)
+<a name="CHT"></a><sup>18</sup> [The CHT Perspective](https://www.humanetech.com/the-cht-perspective)
 
-<a name="NetMinerBlog"></a><sup>18</sup> [Can LLMs Perform Social Network Analysis?](https://netminer.medium.com/can-llms-perform-social-network-analysis-9775a769c337)
+<a name="NetMinerBlog"></a><sup>19</sup> [Can LLMs Perform Social Network Analysis?](https://netminer.medium.com/can-llms-perform-social-network-analysis-9775a769c337)
 
-<a name="SterzikThesis"></a><sup>19</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
+<a name="SterzikThesis"></a><sup>20</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
 
-<a name="JuliaMartins"></a><sup>20</sup> [8 Tips to Lead Without Micromanaging](https://asana.com/resources/macromanagement)
+<a name="JuliaMartins"></a><sup>21</sup> [8 Tips to Lead Without Micromanaging](https://asana.com/resources/macromanagement)
 
 <!-- https://www.forbes.com/sites/digital-assets/2026/04/04/daos-keep-centralizingdecades-of-governance-research-explain-why/ is current and relevant to the WorkplaceDAO idea, mostly reinforcing the idea that WorkplaceDAO remains a new and useful idea in addressing the issues that DAOs face. The article was shared with me by Tevo Saks on April 23, 2026 when discussing in Discord direct messages the Beyond Minimum Viable Governance (MVG) workshops that he hosted on behalf of Input Output. He invited me to participate in the Beyond MVG workshops because we are both members of the Odin Discord server that Nori hosts. I participated in a number of the Beyond MVG workshops with Tevo. See also the related Forbes article https://www.forbes.com/sites/nimrodlehavi/2024/03/18/doomed-to-fail-daos-steps-to-overcome-pitfalls-of-decentralization/ -->
 
