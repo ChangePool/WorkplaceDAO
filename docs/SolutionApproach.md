@@ -273,7 +273,7 @@ In recent years, managers in various industries have been burdened with workload
 
 <a name="YouTube"></a><sup>16</sup> [This Game Theory Problem Will Change the Way You See the World](https://www.youtube.com/watch?v=mScpHTIi-kM)
 
-<a name="JamesCarse"></a><sup>17/sup> [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
+<a name="JamesCarse"></a><sup>17</sup> [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
 
 <a name="CHT"></a><sup>18</sup> [The CHT Perspective](https://www.humanetech.com/the-cht-perspective)
 
