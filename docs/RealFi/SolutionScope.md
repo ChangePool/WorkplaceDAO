@@ -35,6 +35,8 @@ For an initial iteration of RealFi DAO, the following capabilities are developed
 * All RealFi DAO members agree to remain committed to working constructively to seek resolution to conflict or differences that may arise in the RealFi DAO from time to time.
 * When RealFi DAO members are unable to resolve conflict successfully, then RealFi commits to being available to mediate, as a neutral third party.
 
+<!-- Developing a Code of Conduct based on the Guiding Principles may be possible, but is not a requirement. -->
+
 ## Exclusions
 
 To prevent scope creep, the following features and processes are excluded from the initial iteration of RealFi DAO:
