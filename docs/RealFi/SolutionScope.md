@@ -1,6 +1,6 @@
 # RealFi DAO Solution Scope
 
-The current document aims to conceptualize forming a DAO for Cardano stake pool operators (SPOs) participating in the RealFi Accelerator Program in enough detail to enable stakeholders to understand the new business capabilities that the initiative will deliver.
+The current document aims to conceptualize forming a DAO for Cardano stake pool operators (SPOs) participating in the [RealFi](https://realfi.co/) Accelerator Program in enough detail to enable stakeholders to understand the new business capabilities that the initiative will deliver.
 
 ## Business Goals
 
