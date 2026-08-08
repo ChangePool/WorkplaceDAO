@@ -4,7 +4,7 @@ The current document aims to conceptualize forming a DAO for Cardano stake pool 
 
 ## Business Goals
 
-
+RealFi exists in a business environment where 
 
 <!-- Business Drivers & Objectives
 
