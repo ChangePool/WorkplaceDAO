@@ -57,5 +57,9 @@ To prevent scope creep, the following features and processes are excluded from t
 * Constraints: Fixed limits on time, budget, or technology.
 * Dependencies: External projects or team outputs required to start or finish. -->
 
+<!-- Acceptance & Sign-Off
+
+* Stakeholder Sign-Off: Names, titles, and signature lines for project sponsors. -->
+
 ## Summary
 
