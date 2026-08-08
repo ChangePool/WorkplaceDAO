@@ -16,6 +16,7 @@ RealFi exists in a business environment where
 
 For an initial iteration of RealFi DAO, the following capabilities are developed to meet the business need:
 
+* R-Points represent voting power in the RealFi DAO.
 * 
 
 <!-- In-Scope Features & Capabilities
