@@ -47,3 +47,15 @@ To prevent scope creep, the following features and processes are excluded from t
 * Unsupported Processes: Legacy systems or workflows not changing.
 * Boundary Limits: Clear lines to stop scope creep. -->
 
+## Assumptions and Constraints
+
+
+
+<!-- Assumptions & Constraints
+
+* Assumptions: Things accepted as true for planning (e.g., vendor availability).
+* Constraints: Fixed limits on time, budget, or technology.
+* Dependencies: External projects or team outputs required to start or finish. -->
+
+## Summary
+
