@@ -16,7 +16,7 @@ RealFi exists in a business environment where
 
 For an initial iteration of RealFi DAO, the following capabilities are developed to meet the business need:
 
-* R-Points represent voting power in the RealFi DAO.
+* R-Points represent voting power in the RealFi DAO. Proposals for voting may emerge from RealFi or the RealFi DAO. In general, decision making devolves to the lowest level possible.<sup><a href="#Deslandes">1</a></sup>
 * 
 
 <!-- In-Scope Features & Capabilities
@@ -65,4 +65,10 @@ To prevent scope creep, the following features and processes are excluded from t
 * Stakeholder Sign-Off: Names, titles, and signature lines for project sponsors. -->
 
 ## Summary
+
+
+
+## References<a name="references"></a>
+
+<a name="Deslandes"></a><sup>1</sup> [Crossing the Storm: EZLN Marks 30 Years with a 120-year Plan](https://nacla.org/crossing-storm-ezln-marks-30-years-120-year-plan/)
 
