@@ -16,7 +16,7 @@ RealFi exists in a business environment where
 
 For an initial iteration of RealFi DAO, the following capabilities are developed to meet the business need:
 
-* R-Points represent voting power in the RealFi DAO. Proposals for voting may emerge from RealFi or the RealFi DAO. In general, decision making devolves to the lowest level possible.<sup><a href="#Deslandes">1</a></sup>
+* The RealFi Governance Token (RFG) represents voting power in the RealFi DAO. Proposals for voting may emerge from RealFi or the RealFi DAO. In general, decision making devolves to the lowest level possible.<sup><a href="#Deslandes">1</a></sup>
 * 
 
 <!-- In-Scope Features & Capabilities
