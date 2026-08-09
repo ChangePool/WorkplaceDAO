@@ -83,7 +83,7 @@ A dual role, or dual relationship, is one in which there are two (or more) disti
 - Be willing to engage in an ongoing discussion regarding the integrity of a dual relationship.
 - Be willing to make changes in behaviour to preserve the integrity of relationships, including ending the dual nature if integrity of the relationship cannot be preserved otherwise.
 
-Successful DAOs build cooperation and collaboration.<sup><a href="#Veritasium">10</a></sup> In general, decision making devolves to the lowest possible level.<sup><a href="#Deslandes">11</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">12</a></sup>
+Successful DAOs build cooperation and collaboration.<sup><a href="#Veritasium">10</a></sup> Decision making devolves to the lowest possible level.<sup><a href="#Deslandes">11</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">12</a></sup>
 
 While perhaps seeming inefficient, the process of a DAO may be important for developing an effective organization or workplace.
 
