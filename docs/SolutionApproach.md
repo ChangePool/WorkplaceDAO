@@ -62,7 +62,7 @@ Use the solution approach to define the solution scope.
 
 ### Assumptions and Constraints<a name="assumptions"></a>
 
-DAOs offer a model specifically for ratifying decisions. In the current proposal, existing resources, processes and workflows within organizations and workplaces for analysis, evaluation, planning, elicitation, collaboration, design, management and communication that may be available at various levels inform the collective decisions that a DAO may make. Determining the solution scope identifies the business decisions entrusted to a DAO. 
+DAOs offer a model specifically for ratifying decisions. In the current proposal, existing resources, processes and workflows within organizations and workplaces for analysis, evaluation, planning, elicitation, collaboration, design, management and communication that may be available at various levels inform the collective decisions that a DAO may make. Determining the solution scope helps identify the business decisions that may be entrusted to a DAO.
 
 The current proposal is constrained to examining how to implement an incorruptible DAO using a token-weighted governance model within existing organizations or workplaces. Establishing different governance models—such as [quadratic voting](https://www.youtube.com/watch?v=1GRt0j698T4)—while also promising and worthy of further investigation, is outside the scope of the current proposal.
 
