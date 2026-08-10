@@ -34,7 +34,7 @@ For an initial iteration of RealFi DAO, the following capabilities are developed
 * All members of the RealFi DAO are RealFi SPOs. Membership in the RealFi DAO is by invitation only. All RealFi SPOs receive an invitation to join and participate in the RealFi DAO as members.
 * RealFi SPOs participate in the SPO Accelerator Program. RealFi determines participation in the SPO Accelerator Program.
 * All RealFi DAO members agree to remain committed to working constructively to seek resolution to conflict or differences that may arise in the RealFi DAO from time to time.
-* When RealFi DAO members are unable to resolve conflict successfully, then RealFi commits to being available to mediate, as a neutral third party.
+* When RealFi DAO members are unable to resolve conflict successfully, then RealFi commits to being available to mediate, as a neutral third party.<sup><a href="#Bowen">2</a></sup>
 
 <!-- Developing a Code of Conduct based on the Guiding Principles may be possible, but is not a requirement. -->
 
@@ -71,4 +71,6 @@ To prevent scope creep, the following features and processes are excluded from t
 ## References<a name="references"></a>
 
 <a name="Deslandes"></a><sup>1</sup> [Crossing the Storm: EZLN Marks 30 Years with a 120-year Plan](https://nacla.org/crossing-storm-ezln-marks-30-years-120-year-plan/)
+
+<a name="Bowen"></a><sup>2</sup> [Introduction to the Eight Concepts](https://www.thebowencenter.org/introduction-eight-concepts)
 
