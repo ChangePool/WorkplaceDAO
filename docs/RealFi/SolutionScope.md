@@ -2,9 +2,23 @@
 
 The current document aims to conceptualize forming a DAO for Cardano stake pool operators (SPOs) participating in the [RealFi](https://realfi.co/) SPO Accelerator Program in enough detail to enable stakeholders to understand the new business capabilities that the initiative will deliver.
 
-## Business Goals
+## Business Requirements and Goals
 
-RealFi exists in a business environment where 
+<!-- RealFi exists in a business environment where  -->
+
+RealFi needs:
+
+* **Total Value Locked (TVL)**—The total U.S. dollar value of all assets deposited or staked in RealFi
+* **Staking Ratio**—The proportion of the total USDr supply that is currently staked as sUSDr in comparison to the total USDr supply that is eligible to be staked
+* **Monthly Active Users (MAUs)**—a key performance indicator (KPI) measuring the total number of unique individuals who interact with RealFi at least once within a 30-day period, used to evaluate user engagement, business health, and growth trends
+
+<!-- Sources:
+
+The total U.S. dollar value of a decentralized finance (DeFi) protocol, smart contract, or blockchain network, acting as a primary gauge of user trust, adoption and platform liquidity.
+
+https://docs.stakingrewards.com/staking-data/metrics/staking-ratio -->
+
+Establishing a RealFi DAO for SPOs participating in the Accelerator Program supports high-level company goals by 
 
 <!-- Business Drivers & Objectives
 
@@ -14,7 +28,7 @@ RealFi exists in a business environment where
 
 ## Features and Capabilities
 
-For an initial iteration of RealFi DAO, the following capabilities are developed to meet the business need:
+For an initial iteration of RealFi DAO, the following capabilities are developed to help meet the business need:
 
 * The RealFi Governance Token (RFG) represents voting power in the RealFi DAO. Proposals for voting may emerge from RealFi or the RealFi DAO. In general, decision making devolves to the lowest level possible.<sup><a href="#Deslandes">1</a></sup>
 * 
