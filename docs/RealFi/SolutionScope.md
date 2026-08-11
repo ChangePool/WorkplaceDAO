@@ -56,6 +56,8 @@ For an initial iteration of RealFi DAO, the following capabilities are developed
 
 <!-- Developing a Code of Conduct based on the Guiding Principles may be possible, but is not a requirement. -->
 
+<!-- IMPORTANT: Is there a contradiction between creating a legal separation between RealFi and the DAO while giving RealFi a veto in the DAO? If so, how may the contradiction be reconciled at all essential levels—legal, for example—as needed for the DAO to operate? -->
+
 ## Exclusions
 
 To prevent scope creep, the following features and processes are excluded from the initial iteration of RealFi DAO:
