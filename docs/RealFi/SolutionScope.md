@@ -34,7 +34,7 @@ For an initial iteration of RealFi DAO, the following capabilities are developed
   *  **Districts**—Persistent regional or functional hubs for engineering, marketing and legal
   *  **Crews**—Ephemeral, self-organized groups that execute specific tasks, in parallel
 * A legal separation exists between RealFi and the DAO, allowing the SPO community to act where core entities may be constrained.
-* The RealFi Governance Token (RFG) represents voting power in the RealFi DAO. Proposals for voting may emerge from RealFi or the RealFi DAO. In general, decision making devolves to the lowest level possible.<sup><a href="#Deslandes">1</a></sup>
+* The RealFi Governance Token (RFG) represents voting power in the RealFi DAO. Proposals for voting may emerge from RealFi or the DAO. In general, decision making devolves to the lowest level possible.<sup><a href="#Deslandes">1</a></sup>
 * Authenticity is ensured through verifiable on-chain actions.
 
 <!-- In-Scope Features & Capabilities
