@@ -59,7 +59,7 @@ Establishing a RealFi DAO for SPOs participating in the Accelerator Program supp
 
 * Engaging SPOs beyond the duration of the current, alpha cohort participating in the Accelerator Program
 * Capturing knowledge in the alpha cohort for future cohorts
-* Encouraging cooperative behaviour that RealFi, Cardano and Web3 need in order to succeed over the long term
+* Encouraging cooperative behaviour that RealFi, Cardano and Web3 need in order to succeed over the longer term
 * Fostering initiative in a social network to benefit RealFi as well as the RealFi community
 * Integrating and establishing RealFi into the Cardano ecosystem and culture of permissionless decision making
 * Mining existing and new relationships between SPOs to improve the resilience of RealFi and Cardano networks
