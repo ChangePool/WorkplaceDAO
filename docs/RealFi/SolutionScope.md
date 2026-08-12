@@ -61,10 +61,12 @@ Establishing a RealFi DAO for SPOs participating in the Accelerator Program supp
 * Capturing knowledge in the alpha cohort for future cohorts
 * Encouraging cooperative behaviour that RealFi and Web3 need in order to succeed
 * Fostering initiative in a social network to benefit RealFi as well as the RealFi community
-* Integrating and establishing RealFi into the Cardano ecosystem and culture
-* Mining existing and new relationships between SPOs to improve the resilience of RealFi and Cardano networks
+* Integrating and establishing RealFi into the Cardano ecosystem and culture involving permissionless decision making
+* Mining existing and new relationships between SPOs to improve the resilience of the RealFi and Cardano networks
 
-The [RealFi SPO Alpha Cohort Campaign Workshop](https://miro.com/app/board/uXjVH8rBCDE=) reflects SPO interest to engage in an active, progressive journey with RealFi based on belonging. In the RealFi DAO, SPO retention and advocacy—world building—is cultivated by:<sup><a href="#Williamson">1</a></sup>
+While an initial primary motivation for some SPOs to join the Accelerator Program may be financial or network security, the [RealFi SPO Alpha Cohort Campaign Workshop](https://miro.com/app/board/uXjVH8rBCDE=) reflects SPO interest to engage in an active, progressive or evolving journey with RealFi based on belonging, esteem and self-actualization.<sup><a href="#Maslow">1</a></sup>
+
+In the RealFi DAO, SPO retention and advocacy—world building—is cultivated by:<sup><a href="#Williamson">2</a></sup>
 
 * Pinpointing the value added to stakeholders
 * Structuring different stakeholder roles
@@ -79,7 +81,7 @@ For an initial iteration of RealFi DAO, the following capabilities are developed
   *  **Districts**—Persistent regional or functional hubs for marketing, product, engineering and partnerships
   *  **Crews**—Ephemeral, self-organized groups that execute specific tasks, in parallel
 * A legal separation exists between RealFi and the DAO, allowing the SPO community to act where core entities may be constrained.
-* The RealFi Governance Token (RFG) represents voting power in the RealFi DAO. Proposals for voting may emerge from RealFi or the DAO. In general, decision making devolves to the lowest level possible.<sup><a href="#Deslandes">2</a></sup>
+* The RealFi Governance Token (RFG) represents voting power in the RealFi DAO. Proposals for voting may emerge from RealFi or the DAO. In general, decision making devolves to the lowest level possible.<sup><a href="#Deslandes">3</a></sup>
 * Authenticity is ensured through verifiable on-chain actions.
 
 <!-- In-Scope Features & Capabilities
@@ -95,7 +97,7 @@ The RealFi DAO exercises the following guiding principles:
 * All members of the RealFi DAO are RealFi SPOs. Membership in the RealFi DAO is by invitation only. All RealFi SPOs receive an invitation to join and participate in the RealFi DAO as members.
 * RealFi SPOs participate in the SPO Accelerator Program. RealFi determines participation in the SPO Accelerator Program.
 * All RealFi DAO members agree to remain committed to working constructively to seek resolution to conflict or differences that may arise in the RealFi DAO from time to time.
-* When RealFi DAO members are unable to resolve conflict successfully, then RealFi commits to being available to mediate, as a neutral third party.<sup><a href="#Bowen">3</a></sup>
+* When RealFi DAO members are unable to resolve conflict successfully, then RealFi commits to being available to mediate, as a neutral third party.<sup><a href="#Bowen">4</a></sup>
 
 <!-- Developing a Code of Conduct based on the Guiding Principles may be possible, but is not a requirement. -->
 
@@ -122,9 +124,11 @@ The RealFi DAO aims to develop RealFi as a permanent platform and ecosystem wher
 
 ## References<a name="references"></a>
 
-<a name="Williamson"></a><sup>1</sup> [Ecosystem Edge: Sustaining Competitiveness in the Face of Disruption](https://www.sup.org/books/business/ecosystem-edge)
+<a name="Maslow"></a><sup>1</sup> [Maslow's Hierarchy of Needs](https://www.simplypsychology.org/maslow.html)
 
-<a name="Deslandes"></a><sup>2</sup> [Crossing the Storm: EZLN Marks 30 Years with a 120-year Plan](https://nacla.org/crossing-storm-ezln-marks-30-years-120-year-plan/)
+<a name="Williamson"></a><sup>2</sup> [Ecosystem Edge: Sustaining Competitiveness in the Face of Disruption](https://www.sup.org/books/business/ecosystem-edge)
 
-<a name="Bowen"></a><sup>3</sup> [Introduction to the Eight Concepts](https://www.thebowencenter.org/introduction-eight-concepts)
+<a name="Deslandes"></a><sup>3</sup> [Crossing the Storm: EZLN Marks 30 Years with a 120-year Plan](https://nacla.org/crossing-storm-ezln-marks-30-years-120-year-plan/)
+
+<a name="Bowen"></a><sup>4</sup> [Introduction to the Eight Concepts](https://www.thebowencenter.org/introduction-eight-concepts)
 
