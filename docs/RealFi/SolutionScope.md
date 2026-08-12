@@ -2,6 +2,13 @@
 
 The current document aims to conceptualize forming a DAO for Cardano stake pool operators (SPOs) participating in the [RealFi](https://realfi.co/) SPO Accelerator Program in enough detail to enable stakeholders to understand the new business capabilities that the initiative will deliver.
 
+## Inputs
+
+The RealFi DAO Solution Scope is defined using the following inputs:
+
+* [The Interface](https://docs.google.com/presentation/d/1qcV-4WaIjiDc4AjFpXdcFWR1E1SYqOtCL63GvvJv8zI) describes RealFi business needs to drive required outcomes.
+* [WorkplaceDAO](https://github.com/ChangePool/WorkplaceDAO) discusses a solution approach suitable for creating an interface between RealFi Business and Ecosystem layers.
+
 ## Primary Stakeholders
 
 The following stakeholders are affected by the solution to create a RealFi DAO:
