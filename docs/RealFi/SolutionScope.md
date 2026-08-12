@@ -79,7 +79,7 @@ For an initial iteration of RealFi DAO, the following capabilities are developed
 
 The RealFi DAO applies the following guiding principles:
 
-* The RealFi DAO exists to facilitate cooperation benefitting RealFi and RealFi SPOs.
+* The RealFi DAO exists to facilitate cooperation benefitting RealFi and RealFi SPOs directly, and customers indirectly.
 * All members of the RealFi DAO are RealFi SPOs. Membership in the RealFi DAO is by invitation only. All RealFi SPOs receive an invitation to join and participate in the RealFi DAO as members.
 * RealFi SPOs participate in the SPO Accelerator Program. RealFi determines participation in the SPO Accelerator Program.
 * All RealFi DAO members agree to remain committed to working constructively to seek resolution to conflict or differences that may arise in the RealFi DAO from time to time.
