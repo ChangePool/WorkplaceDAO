@@ -6,7 +6,7 @@ The current document aims to conceptualize forming a DAO for Cardano stake pool 
 
 The RealFi DAO Solution Scope is defined using the following inputs:
 
-* [The Interface](https://docs.google.com/presentation/d/1qcV-4WaIjiDc4AjFpXdcFWR1E1SYqOtCL63GvvJv8zI) describes RealFi business needs to drive required outcomes.
+* [The Interface](https://docs.google.com/presentation/d/1qcV-4WaIjiDc4AjFpXdcFWR1E1SYqOtCL63GvvJv8zI) describes business needs for RealFi to drive desired outcomes.
 * [WorkplaceDAO](https://github.com/ChangePool/WorkplaceDAO) discusses a solution approach suitable for creating an interface between RealFi Business and Ecosystem layers.
 
 ## Primary Stakeholders
