@@ -35,8 +35,8 @@ https://docs.stakingrewards.com/staking-data/metrics/staking-ratio -->
 
 Establishing a RealFi DAO for SPOs participating in the Accelerator Program supports high-level company goals by:
 
-* Engaging SPOs beyond the duration of the current cohort participating in the Accelerator Program
-* Capturing knowledge in the current cohort for future cohorts
+* Engaging SPOs beyond the duration of the current, alpha cohort participating in the Accelerator Program
+* Capturing knowledge in the alpha cohort for future cohorts
 * Encouraging cooperative behaviour that RealFi and Web3 need in order to succeed
 * Fostering initiative in a social network to benefit RealFi as well as the RealFi community
 * Integrating and establishing RealFi into the Cardano ecosystem and culture
