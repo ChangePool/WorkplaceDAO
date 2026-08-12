@@ -118,7 +118,7 @@ To prevent scope creep, the following features and processes are excluded from t
 
 ## Summary
 
-
+There are no secrets.
 
 ## References<a name="references"></a>
 
