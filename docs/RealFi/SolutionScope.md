@@ -11,11 +11,11 @@ The RealFi DAO Solution Scope is defined using the following inputs:
 
 ## Stakeholders
 
-The following primary stakeholders are affected by the solution to create a RealFi DAO:
+The solution to create a RealFi DAO affects the following primary stakeholders:
 
-* RealFi
-* Participants in the RealFi SPO Accelerator Program
-* RealFi community members and customers
+* **RealFi**—The Business layer
+* **Participants in the RealFi SPO Accelerator Program**—The Ecosystem layer
+* **RealFi Community Members**—Customers
 
 ## Business Requirements and Goals
 
