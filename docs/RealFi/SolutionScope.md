@@ -25,7 +25,7 @@ RealFi needs:
 
 * **Total Value Locked (TVL)**—The total U.S. dollar value of all assets deposited or staked in RealFi
 * **Staking Ratio**—The proportion of the total USDr supply that is currently staked as sUSDr in comparison to the total USDr supply that is eligible to be staked
-* **Monthly Active Users (MAUs)**—a key performance indicator (KPI) measuring the total number of unique individuals who interact with RealFi at least once within a 30-day period, used to evaluate user engagement, business health, and growth trends
+* **Monthly Active Users (MAUs)**—A key performance indicator (KPI) measuring the total number of unique individuals who interact with RealFi at least once within a 30-day period, used to evaluate user engagement, business health, and growth trends
 
 <!-- Sources:
 
