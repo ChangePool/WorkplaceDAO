@@ -9,9 +9,9 @@ The RealFi DAO Solution Scope is defined using the following inputs:
 * [The Interface](https://docs.google.com/presentation/d/1qcV-4WaIjiDc4AjFpXdcFWR1E1SYqOtCL63GvvJv8zI) describes business needs for RealFi to drive desired outcomes.
 * [WorkplaceDAO](https://github.com/ChangePool/WorkplaceDAO) discusses a solution approach suitable for meeting RealFi business needs to create an interface the Business and Ecosystem layers.
 
-## Primary Stakeholders
+## Stakeholders
 
-The following stakeholders are affected by the solution to create a RealFi DAO:
+The following primary stakeholders are affected by the solution to create a RealFi DAO:
 
 * RealFi
 * Participants in the RealFi SPO Accelerator Program
