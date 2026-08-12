@@ -103,7 +103,7 @@ To prevent scope creep, the following features and processes are excluded from t
 
 ## Assumptions and Constraints
 
-
+The current proposal considers that the implementation of a RealFi DAO is a long-term decision aiming to establish a resilient, robust and diverse—rather than a short-term, finite or temporary—collective organization.
 
 <!-- Assumptions & Constraints
 
