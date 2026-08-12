@@ -77,7 +77,7 @@ For an initial iteration of RealFi DAO, the following capabilities are developed
 * User Groups: Departments or user personas impacted.
 * Data & Interfaces: External systems, APIs, or reports required. -->
 
-The RealFi DAO applies the following guiding principles:
+The RealFi DAO exercises the following guiding principles:
 
 * The RealFi DAO exists to facilitate cooperation benefitting RealFi and RealFi SPOs directly, and RealFi customers indirectly.
 * All members of the RealFi DAO are RealFi SPOs. Membership in the RealFi DAO is by invitation only. All RealFi SPOs receive an invitation to join and participate in the RealFi DAO as members.
