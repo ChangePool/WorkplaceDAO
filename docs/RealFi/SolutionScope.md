@@ -84,7 +84,7 @@ For an initial iteration of RealFi DAO, the following capabilities are developed
 
 ## Exclusions
 
-To prevent scope creep, the following features and processes are excluded from the initial iteration of RealFi DAO:
+To prevent scope creep, the following features and processes are excluded from the initial iteration of the RealFi DAO:
 
 * 
 
