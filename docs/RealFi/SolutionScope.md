@@ -55,6 +55,15 @@ https://docs.stakingrewards.com/staking-data/metrics/staking-ratio -->
 
 ## Features and Capabilities
 
+Establishing a RealFi DAO for SPOs participating in the Accelerator Program supports high-level company goals by:
+
+* Engaging SPOs beyond the duration of the current, alpha cohort participating in the Accelerator Program
+* Capturing knowledge in the alpha cohort for future cohorts
+* Encouraging cooperative behaviour that RealFi and Web3 need in order to succeed
+* Fostering initiative in a social network to benefit RealFi as well as the RealFi community
+* Integrating and establishing RealFi into the Cardano ecosystem and culture
+* Mining existing and new relationships between SPOs to improve the resilience of RealFi and Cardano networks
+
 The RealFi DAO aims to develop RealFi as a platform and ecosystem where people build on leveraging common resources and third parties.
 <!-- to generate network effects, driving and expediating growth. -->
 
@@ -66,15 +75,6 @@ The [RealFi SPO Alpha Cohort Campaign Workshop](https://miro.com/app/board/uXjVH
 * Reducing transaction costs
 * Enabling co-learning
 * Engineering value-capture mechanisms
-
-Establishing a RealFi DAO for SPOs participating in the Accelerator Program supports high-level company goals by:
-
-* Engaging SPOs beyond the duration of the current, alpha cohort participating in the Accelerator Program
-* Capturing knowledge in the alpha cohort for future cohorts
-* Encouraging cooperative behaviour that RealFi and Web3 need in order to succeed
-* Fostering initiative in a social network to benefit RealFi as well as the RealFi community
-* Integrating and establishing RealFi into the Cardano ecosystem and culture
-* Mining existing and new relationships between SPOs to improve the resilience of RealFi and Cardano networks
 
 For an initial iteration of RealFi DAO, the following capabilities are developed to help meet the business need:
 
