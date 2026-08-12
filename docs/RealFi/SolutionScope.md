@@ -2,6 +2,14 @@
 
 The current document aims to conceptualize forming a DAO for Cardano stake pool operators (SPOs) participating in the [RealFi](https://realfi.co/) SPO Accelerator Program in enough detail to enable stakeholders to understand the new business capabilities that the initiative will deliver.
 
+## Primary Stakeholders
+
+The following stakeholders are affected by the solution to create a RealFi DAO:
+
+* RealFi
+* Participants in the RealFi SPO Accelerator Program
+* RealFi community members and customers
+
 ## Business Requirements and Goals
 
 <!-- RealFi exists in a business environment where  -->
@@ -18,7 +26,14 @@ The total U.S. dollar value of a decentralized finance (DeFi) protocol, smart co
 
 https://docs.stakingrewards.com/staking-data/metrics/staking-ratio -->
 
-Establishing a RealFi DAO for SPOs participating in the Accelerator Program supports high-level company goals by 
+Establishing a RealFi DAO for SPOs participating in the Accelerator Program supports high-level company goals by:
+
+* Engaging SPOs beyond the duration of the current cohort participating in the Accelerator Program
+* Capturing knowledge in the current cohort for future cohorts
+* Encouraging cooperative behaviour that RealFi and Web3 need in order to succeed
+* Fostering initiative in a social network to benefit RealFi as well as the RealFi community
+* Integrating and establishing RealFi into the Cardano ecosystem and culture
+* Mining existing and new relationships between SPOs to improve the resilience of RealFi and Cardano networks
 
 <!-- Business Drivers & Objectives
 
@@ -27,6 +42,8 @@ Establishing a RealFi DAO for SPOs participating in the Accelerator Program supp
 * Strategic Alignment: How the project supports high-level company goals. -->
 
 ## Features and Capabilities
+
+The RealFi DAO aims to develop RealFi as a platform and ecosystem where people build on leveraging common resources and third parties to generate network effects.
 
 For an initial iteration of RealFi DAO, the following capabilities are developed to help meet the business need:
 
