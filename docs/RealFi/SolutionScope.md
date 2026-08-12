@@ -50,7 +50,14 @@ Establishing a RealFi DAO for SPOs participating in the Accelerator Program supp
 
 ## Features and Capabilities
 
-The RealFi DAO aims to develop RealFi as a platform and ecosystem where people build on leveraging common resources and third parties to generate network effects, driving and expediating growth.
+The RealFi DAO aims to develop RealFi as a platform and ecosystem where people build on leveraging common resources and third parties to generate network effects, driving and expediating growth. World building is achieved by:<sup><a href="#Williamson">1</a></sup>
+
+* Pinpointing the value added to stakeholders
+* Structuring different stakeholder roles
+* Stimulating complementary investments by stakeholders
+* Reducing transaction costs
+* Enabling co-learning
+* Engineering value-capture mechanisms
 
 For an initial iteration of RealFi DAO, the following capabilities are developed to help meet the business need:
 
@@ -58,7 +65,7 @@ For an initial iteration of RealFi DAO, the following capabilities are developed
   *  **Districts**—Persistent regional or functional hubs for engineering, marketing and legal
   *  **Crews**—Ephemeral, self-organized groups that execute specific tasks, in parallel
 * A legal separation exists between RealFi and the DAO, allowing the SPO community to act where core entities may be constrained.
-* The RealFi Governance Token (RFG) represents voting power in the RealFi DAO. Proposals for voting may emerge from RealFi or the DAO. In general, decision making devolves to the lowest level possible.<sup><a href="#Deslandes">1</a></sup>
+* The RealFi Governance Token (RFG) represents voting power in the RealFi DAO. Proposals for voting may emerge from RealFi or the DAO. In general, decision making devolves to the lowest level possible.<sup><a href="#Deslandes">2</a></sup>
 * Authenticity is ensured through verifiable on-chain actions.
 
 <!-- In-Scope Features & Capabilities
@@ -76,7 +83,7 @@ For an initial iteration of RealFi DAO, the following capabilities are developed
 * All members of the RealFi DAO are RealFi SPOs. Membership in the RealFi DAO is by invitation only. All RealFi SPOs receive an invitation to join and participate in the RealFi DAO as members.
 * RealFi SPOs participate in the SPO Accelerator Program. RealFi determines participation in the SPO Accelerator Program.
 * All RealFi DAO members agree to remain committed to working constructively to seek resolution to conflict or differences that may arise in the RealFi DAO from time to time.
-* When RealFi DAO members are unable to resolve conflict successfully, then RealFi commits to being available to mediate, as a neutral third party.<sup><a href="#Bowen">2</a></sup>
+* When RealFi DAO members are unable to resolve conflict successfully, then RealFi commits to being available to mediate, as a neutral third party.<sup><a href="#Bowen">3</a></sup>
 
 <!-- Developing a Code of Conduct based on the Guiding Principles may be possible, but is not a requirement. -->
 
@@ -114,7 +121,9 @@ To prevent scope creep, the following features and processes are excluded from t
 
 ## References<a name="references"></a>
 
-<a name="Deslandes"></a><sup>1</sup> [Crossing the Storm: EZLN Marks 30 Years with a 120-year Plan](https://nacla.org/crossing-storm-ezln-marks-30-years-120-year-plan/)
+<a name="Williamson"></a><sup>1</sup> [Ecosystem Edge: Sustaining Competitiveness in the Face of Disruption](https://www.sup.org/books/business/ecosystem-edge)
 
-<a name="Bowen"></a><sup>2</sup> [Introduction to the Eight Concepts](https://www.thebowencenter.org/introduction-eight-concepts)
+<a name="Deslandes"></a><sup>2</sup> [Crossing the Storm: EZLN Marks 30 Years with a 120-year Plan](https://nacla.org/crossing-storm-ezln-marks-30-years-120-year-plan/)
+
+<a name="Bowen"></a><sup>3</sup> [Introduction to the Eight Concepts](https://www.thebowencenter.org/introduction-eight-concepts)
 
