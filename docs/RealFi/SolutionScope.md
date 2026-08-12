@@ -64,7 +64,7 @@ Establishing a RealFi DAO for SPOs participating in the Accelerator Program supp
 * Integrating and establishing RealFi into the Cardano ecosystem and Web3 culture of productive permissionless decision making
 * Mining existing and new relationships between SPOs to improve the resilience of RealFi and Cardano networks
 
-While an initial primary motivation for some SPOs to join the Accelerator Program may be financial or network security, the [RealFi SPO Alpha Cohort Campaign Workshop](https://miro.com/app/board/uXjVH8rBCDE=) reflects SPO interest to engage in an active, progressive or evolving journey with RealFi based on belonging, esteem and self-actualization.<sup><a href="#Maslow">2</a></sup>
+While an initial primary motivator for some SPOs to join the Accelerator Program may be financial or network security, the [RealFi SPO Alpha Cohort Campaign Workshop](https://miro.com/app/board/uXjVH8rBCDE=) reflects SPO interest to engage in an active, progressive or evolving journey with RealFi based on belonging, esteem and self-actualization driving possibility, innovation, creativity, collaboration and trade.<sup><a href="#Maslow">2</a></sup>
 
 In the RealFi DAO, SPO retention and advocacy—world building—is cultivated by:<sup><a href="#Williamson">3</a></sup>
 
