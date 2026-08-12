@@ -55,7 +55,7 @@ https://docs.stakingrewards.com/staking-data/metrics/staking-ratio -->
 
 ## Features and Capabilities
 
-Establishing a RealFi DAO for SPOs participating in the Accelerator Program supports high-level company goals by increasing social network density to improve interconnection, quality of information, rate of information flow, trust and cohesion within RealFi and Cardano networks:<sup><a href="#Density">1</a></sup>
+Establishing a RealFi DAO for SPOs participating in the Accelerator Program supports high-level company goals by increasing social network density to improve interconnection, quality of information, rate of information exchange, trust and cohesion within RealFi and Cardano networks:<sup><a href="#Density">1</a></sup>
 
 * Engaging SPOs beyond the duration of the current, alpha cohort participating in the Accelerator Program
 * Capturing knowledge in the alpha cohort for future cohorts
