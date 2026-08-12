@@ -82,7 +82,7 @@ For an initial iteration of RealFi DAO, the following capabilities are developed
   *  **Crews**—Ephemeral, self-organized groups that execute specific tasks, in parallel
 * A legal separation exists between RealFi and the DAO, allowing the SPO community to act where core entities may be constrained.
 * The RealFi Governance Token (RFG) represents voting power in the RealFi DAO. Proposals for voting may emerge from RealFi or the DAO. In general, decision making devolves to the lowest level possible.<sup><a href="#Deslandes">4</a></sup>
-* Authenticity is ensured through verifiable on-chain actions, helping to grow social capital.
+* Authenticity is ensured through verifiable on-chain actions, helping to grow social capital.<sup><a href="#Avalanche">5</a></sup>
 
 <!-- In-Scope Features & Capabilities
 
@@ -97,7 +97,7 @@ The RealFi DAO exercises the following guiding principles:
 * All members of the RealFi DAO are RealFi SPOs. Membership in the RealFi DAO is by invitation only. All RealFi SPOs receive an invitation to join and participate in the RealFi DAO as members.
 * RealFi SPOs participate in the SPO Accelerator Program. RealFi determines participation in the SPO Accelerator Program.
 * All RealFi DAO members agree to remain committed to working constructively to seek resolution to conflict or differences that may arise in the RealFi DAO from time to time.
-* When RealFi DAO members are unable to resolve conflict successfully, then RealFi commits to being available to mediate, as a neutral third party.<sup><a href="#Bowen">5</a></sup>
+* When RealFi DAO members are unable to resolve conflict successfully, then RealFi commits to being available to mediate, as a neutral third party.<sup><a href="#Bowen">6</a></sup>
 
 <!-- Developing a Code of Conduct based on the Guiding Principles may be possible, but is not a requirement. -->
 
@@ -132,5 +132,7 @@ The RealFi DAO aims to develop RealFi as a permanent platform and ecosystem wher
 
 <a name="Deslandes"></a><sup>4</sup> [Crossing the Storm: EZLN Marks 30 Years with a 120-year Plan](https://nacla.org/crossing-storm-ezln-marks-30-years-120-year-plan/)
 
-<a name="Bowen"></a><sup>5</sup> [Introduction to the Eight Concepts](https://www.thebowencenter.org/introduction-eight-concepts)
+<a name="Avalanche"></a><sup>5</sup> [Avalanche Team1](https://www.team1.network/)
+
+<a name="Bowen"></a><sup>6</sup> [Introduction to the Eight Concepts](https://www.thebowencenter.org/introduction-eight-concepts)
 
