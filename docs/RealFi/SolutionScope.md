@@ -17,6 +17,20 @@ The solution to create a RealFi DAO affects the following primary stakeholders:
 * **Participants in the RealFi SPO Accelerator Program**—The Ecosystem layer
 * **RealFi Community Members**—Customers
 
+## Assumptions and Constraints
+
+The current proposal considers that the implementation of a RealFi DAO is a long-term decision aiming to establish a resilient, robust, diverse and inclusive—rather than a short-term, finite or temporary—collective organization.
+
+<!-- Assumptions & Constraints
+
+* Assumptions: Things accepted as true for planning (e.g., vendor availability).
+* Constraints: Fixed limits on time, budget, or technology.
+* Dependencies: External projects or team outputs required to start or finish. -->
+
+<!-- Acceptance & Sign-Off
+
+* Stakeholder Sign-Off: Names, titles, and signature lines for project sponsors. -->
+
 ## Business Requirements and Goals
 
 <!-- RealFi exists in a business environment where  -->
@@ -101,20 +115,6 @@ To prevent scope creep, the following features and processes are excluded from t
 * Deferred Features: Capabilities explicitly left for future phases.
 * Unsupported Processes: Legacy systems or workflows not changing.
 * Boundary Limits: Clear lines to stop scope creep. -->
-
-## Assumptions and Constraints
-
-The current proposal considers that the implementation of a RealFi DAO is a long-term decision aiming to establish a resilient, robust, diverse and inclusive—rather than a short-term, finite or temporary—collective organization.
-
-<!-- Assumptions & Constraints
-
-* Assumptions: Things accepted as true for planning (e.g., vendor availability).
-* Constraints: Fixed limits on time, budget, or technology.
-* Dependencies: External projects or team outputs required to start or finish. -->
-
-<!-- Acceptance & Sign-Off
-
-* Stakeholder Sign-Off: Names, titles, and signature lines for project sponsors. -->
 
 ## Summary
 
