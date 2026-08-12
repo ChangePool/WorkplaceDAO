@@ -50,7 +50,9 @@ Establishing a RealFi DAO for SPOs participating in the Accelerator Program supp
 
 ## Features and Capabilities
 
-The RealFi DAO aims to develop RealFi as a platform and ecosystem where people build on leveraging common resources and third parties to generate network effects, driving and expediating growth. World building is achieved by:<sup><a href="#Williamson">1</a></sup>
+The RealFi DAO aims to develop RealFi as a platform and ecosystem where people build on leveraging common resources and third parties to generate network effects, driving and expediating growth.
+
+World building is achieved by:<sup><a href="#Williamson">1</a></sup>
 
 * Pinpointing the value added to stakeholders
 * Structuring different stakeholder roles
