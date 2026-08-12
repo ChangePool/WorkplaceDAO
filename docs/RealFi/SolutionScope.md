@@ -64,9 +64,6 @@ Establishing a RealFi DAO for SPOs participating in the Accelerator Program supp
 * Integrating and establishing RealFi into the Cardano ecosystem and culture
 * Mining existing and new relationships between SPOs to improve the resilience of RealFi and Cardano networks
 
-The RealFi DAO aims to develop RealFi as a platform and ecosystem where people build on leveraging common resources and third parties.
-<!-- to generate network effects, driving and expediating growth. -->
-
 The [RealFi SPO Alpha Cohort Campaign Workshop](https://miro.com/app/board/uXjVH8rBCDE=) reflects SPO interest to engage in an active, progressive journey with RealFi based on belonging. In the RealFi DAO, SPO retention and advocacy—world building—is cultivated by:<sup><a href="#Williamson">1</a></sup>
 
 * Pinpointing the value added to stakeholders
@@ -118,7 +115,8 @@ To prevent scope creep, the following features and processes are excluded from t
 
 ## Summary
 
-There are no secrets to good business...
+The RealFi DAO aims to develop RealFi as a platform and ecosystem where people build on leveraging common resources and third parties. There are no secrets to good business.
+<!-- to generate network effects, driving and expediating growth. -->
 
 ## References<a name="references"></a>
 
