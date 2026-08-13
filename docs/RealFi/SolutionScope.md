@@ -107,7 +107,7 @@ The RealFi DAO exercises the following guiding principles:
 
 To prevent scope creep, the following features and processes are excluded from the initial iteration of the RealFi DAO:
 
-* 
+* Crews may find work and self-report participation off chain.
 
 <!-- Out-of-Scope (Exclusions)
 
