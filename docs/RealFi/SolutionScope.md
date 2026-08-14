@@ -4,7 +4,7 @@ The current document aims to conceptualize forming a DAO for Cardano stake pool 
 
 ## Acknowledgements
 
-Ben O'Hanlon  
+**Ben O'Hanlon**  
 _Go-To-Market Lead_  
 RealFi
 
