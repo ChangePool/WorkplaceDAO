@@ -1,5 +1,12 @@
 # RealFi DAO Solution Scope
 
+<p align="center">
+  <code>"While mean networks may overwhelm cooperative individuals,<br>cooperative network outperform mean networks."</code>
+</p>
+<!-- <p align="center">
+<code>—<a href=""></a></code>
+</p> -->
+
 The current document aims to conceptualize forming a DAO for Cardano stake pool operators (SPOs) participating in the [RealFi](https://realfi.co/) SPO Accelerator Program in enough detail to enable stakeholders to understand the new business capabilities that the initiative will deliver.
 
 ## Acknowledgements
