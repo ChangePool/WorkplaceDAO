@@ -70,7 +70,7 @@ https://docs.stakingrewards.com/staking-data/metrics/staking-ratio -->
 * Project Goals: Measurable targets the solution must achieve.
 * Strategic Alignment: How the project supports high-level company goals. -->
 
-<!-- See BABOK 5.1.4.1 related to SMART goals. -->
+<!-- The Business Requirements and Goals reflects details available in The Interface available online at https://docs.google.com/presentation/d/1qcV-4WaIjiDc4AjFpXdcFWR1E1SYqOtCL63GvvJv8zI For more details, see BABOK 5.1.4.1 related to SMART goals. -->
 
 ## Features and Capabilities
 
