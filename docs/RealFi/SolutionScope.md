@@ -55,7 +55,9 @@ https://docs.stakingrewards.com/staking-data/metrics/staking-ratio -->
 
 ## Features and Capabilities
 
-Establishing a RealFi DAO for SPOs participating in the Accelerator Program supports high-level company goals by increasing social network density to improve interconnection, quality of information, rate of information exchange, trust and cohesion within RealFi and Cardano networks:<sup><a href="#Density">1</a></sup>
+While an initial primary motivator for some SPOs to join the Accelerator Program may be financial or network security, the [RealFi SPO Alpha Cohort Campaign Workshop](https://miro.com/app/board/uXjVH8rBCDE=) reflects SPO interest in engaging in an active, progressive or evolving journey with RealFi based on belonging, esteem and self-actualization driving possibility, innovation, creativity, collaboration and trade.<sup><a href="#Maslow">1</a></sup>
+
+Establishing a RealFi DAO for SPOs participating in the Accelerator Program supports high-level company goals by increasing social network density to improve interconnection, quality of information, rate of information exchange, trust and cohesion within RealFi and Cardano networks:<sup><a href="#Density">2</a></sup>
 
 * Engaging SPOs beyond the duration of the current, alpha cohort participating in the Accelerator Program
 * Capturing knowledge in the alpha cohort for future cohorts
@@ -63,8 +65,6 @@ Establishing a RealFi DAO for SPOs participating in the Accelerator Program supp
 * Fostering initiative to benefit RealFi as well as the RealFi community
 * Integrating and establishing RealFi into the Cardano ecosystem and Web3 culture of productive permissionless decision making
 * Mining existing and new relationships between SPOs to improve the resilience of RealFi and Cardano networks
-
-While an initial primary motivator for some SPOs to join the Accelerator Program may be financial or network security, the [RealFi SPO Alpha Cohort Campaign Workshop](https://miro.com/app/board/uXjVH8rBCDE=) reflects SPO interest in engaging in an active, progressive or evolving journey with RealFi based on belonging, esteem and self-actualization driving possibility, innovation, creativity, collaboration and trade.<sup><a href="#Maslow">2</a></sup>
 
 In the RealFi DAO, SPO retention and advocacy—world building—is cultivated by:<sup><a href="#Williamson">3</a></sup>
 
@@ -124,9 +124,9 @@ The RealFi DAO aims to develop RealFi as a permanent platform and ecosystem wher
 
 ## References<a name="references"></a>
 
-<a name="Density"></a><sup>1</sup> [Network Density](https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/network-density)
+<a name="Maslow"></a><sup>1</sup> [Maslow's Hierarchy of Needs](https://www.simplypsychology.org/maslow.html)
 
-<a name="Maslow"></a><sup>2</sup> [Maslow's Hierarchy of Needs](https://www.simplypsychology.org/maslow.html)
+<a name="Density"></a><sup>2</sup> [Network Density](https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/network-density)
 
 <a name="Williamson"></a><sup>3</sup> [Ecosystem Edge: Sustaining Competitiveness in the Face of Disruption](https://www.sup.org/books/business/ecosystem-edge)
 
