@@ -70,6 +70,8 @@ https://docs.stakingrewards.com/staking-data/metrics/staking-ratio -->
 * Project Goals: Measurable targets the solution must achieve.
 * Strategic Alignment: How the project supports high-level company goals. -->
 
+<!-- See BABOK 5.1.4.1 related to SMART goals. -->
+
 ## Features and Capabilities
 
 While an initial primary motivator for some SPOs to join the Accelerator Program may be financial or network security, the [RealFi SPO Alpha Cohort Campaign Workshop](https://miro.com/app/board/uXjVH8rBCDE=) reflects SPO interest in engaging in an active, progressive or evolving journey with RealFi based on belonging, esteem and self-actualization driving possibility, innovation, creativity, collaboration and trade.<sup><a href="#Maslow">1</a></sup>
