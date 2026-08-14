@@ -50,7 +50,7 @@ The current proposal considers that the implementation of a RealFi DAO is a long
 
 RealFi seeks viral adoption.
 
-As goals are analyzed, they are converted into more descriptive, granular and specific objectives, and linked to measures that make it possible to assess objectively if the objective has been achieved.
+As goals are further analyzed, they are converted into more descriptive, granular and specific objectives, and linked to measures that make it possible to assess objectively if the objective has been achieved.
 
 To assess objectively if objectives are achieved, RealFi measures:
 
