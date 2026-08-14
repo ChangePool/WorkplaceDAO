@@ -117,7 +117,8 @@ To prevent scope creep, the following features and processes are excluded from t
 
 ## Summary
 
-The RealFi DAO aims to develop RealFi as a permanent platform and ecosystem where people build on leveraging common resources and third parties.
+The RealFi DAO aims to develop RealFi as a permanent platform and ecosystem where people build on leveraging common resources and third parties, increasing TVL, staking ratio and MAUs significantly.
+
 <!-- to generate network effects, driving and expediating growth. -->
 
 <!-- There are no secrets to good business. -->
