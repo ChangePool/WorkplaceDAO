@@ -48,7 +48,9 @@ The current proposal considers that the implementation of a RealFi DAO is a long
 
 <!-- RealFi exists in a business environment where  -->
 
-RealFi needs:
+As goals are analyzed, they are converted into more descriptive, granular and specific objectives, and linked to measures that make it possible to objectively assess if the objective has been achieved.
+
+To assess objectively if objectives are achieved, RealFi measures:
 
 * **Total Value Locked (TVL)**—The total U.S. dollar value of all assets deposited or staked in RealFi, calculated as the total of delegations in ADA to all RealFi SPOs
 * **Staking Ratio**—Calculated as the proportion of the total USDr supply that is currently staked as sUSDr in comparison to the total USDr supply that is eligible to be staked
