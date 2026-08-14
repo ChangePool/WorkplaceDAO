@@ -48,7 +48,7 @@ The current proposal considers that the implementation of a RealFi DAO is a long
 
 <!-- RealFi exists in a business environment where  -->
 
-RealFi seeks viral adoption.
+RealFi seeks to leverage network effects to achieve mass adoption.
 
 As goals are further analyzed, they are converted into more descriptive, granular and specific objectives, and linked to measures that make it possible to assess objectively if the objective has been achieved.
 
