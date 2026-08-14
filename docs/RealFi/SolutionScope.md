@@ -1,7 +1,7 @@
 # RealFi DAO Solution Scope
 
 <p align="center">
-  <code>"While mean networks may overwhelm cooperative individuals,<br>cooperative network outperform mean networks."</code>
+  <code>"While mean networks may overwhelm cooperative individuals, cooperative network outperform mean networks."</code>
 </p>
 <!-- <p align="center">
 <code>—<a href=""></a></code>
