@@ -138,7 +138,7 @@ The RealFi DAO aims to develop RealFi as a permanent platform and ecosystem wher
 
 ## Next Steps
 
-In addition to defining the business needs and solution scope, developing a business case depends on eliciting stakeholder concerns, as well as identifying factors that may affect which solutions are viable.
+In addition to defining the business needs and solution scope, developing a business case depends on eliciting stakeholder concerns as well as identifying factors that may affect which solutions are viable.
 
 ## References<a name="references"></a>
 
