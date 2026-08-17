@@ -12,6 +12,12 @@ The following documents aim to provide context for further planning and developm
 
 <!-- 241030 - In our online meeting today, ROSO said that DAOs have some hierarchy (presumably speaking from his experience in RnDAO). He did not elaborate. He seemed to offer the information as a criticism of the idea discussed in the current proposal. However, the comment seems to validate that some additional structure is required in order to establish a sustainable, egalitarian DAO practically. -->
 
+### Solutions
+
+The following recommended solutions are conceptualized:
+
+- [RealFi DAO]()
+
 ### Many Thanks<a name="thanks"></a>
 
 **Nick Almond**  
