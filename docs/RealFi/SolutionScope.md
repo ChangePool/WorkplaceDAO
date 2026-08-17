@@ -136,6 +136,10 @@ The RealFi DAO aims to develop RealFi as a permanent platform and ecosystem wher
 
 <!-- There are no secrets to good business. -->
 
+## Next Steps
+
+In addition to defining the business needs and solution scope, developing a business case depends on eliciting stakeholder concerns, as well as identifying factors that may affect which solutions are viable.
+
 ## References<a name="references"></a>
 
 <a name="Maslow"></a><sup>1</sup> [Maslow's Hierarchy of Needs](https://www.simplypsychology.org/maslow.html)
