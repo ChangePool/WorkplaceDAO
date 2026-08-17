@@ -38,6 +38,10 @@ Arbitrum DAO
 *Ecosystem Lead*  
 Everclear
 
+**Ben O'Hanlon**  
+*Go-To-Market Lead*  
+RealFi
+
 **Daniel Ospina**  
 *Organisation Design Lead*  
 RnD Ventures
