@@ -40,7 +40,7 @@ Everclear
 
 **Daniel Ospina**  
 *Organisation Design Lead*  
-RnDAO
+RnD Ventures
 
 **Kevin Owocki**  
 *Co-Founder*  
