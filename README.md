@@ -14,9 +14,9 @@ The following documents aim to provide context for further planning and developm
 
 ### Solutions
 
-The following recommended solutions are conceptualized:
+Based on the solution approach, the following recommended solutions are conceptualized:
 
-- [RealFi DAO]()
+- [RealFi DAO](./docs/RealFi/SolutionScope.md)
 
 ### Many Thanks<a name="thanks"></a>
 
